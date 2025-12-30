@@ -17,7 +17,7 @@ interface SizeTableProps {
     };
 }
 
-function getValueForHeader(row: Record<string, string>, header: string): string {
+function getValueForHeader(row: Record<string, string | undefined>, header: string): string {
     if (row[header] !== undefined) return row[header];
 
     const normalized = header
@@ -47,7 +47,7 @@ function getValueForHeader(row: Record<string, string>, header: string): string 
     const baseWord = header.split(/[\s(]/)[0];
     for (const key of Object.keys(row)) {
         if (key.toLowerCase().startsWith(baseWord.toLowerCase())) {
-            return row[key];
+            return row[key] ?? '-';
         }
     }
 
@@ -190,7 +190,7 @@ export default function SizeTable({ data, highlightedIndex, messages }: SizeTabl
                             {chartData.rows.map((row, index) => (
                                 <tr key={index}>
                                     {chartData.headers?.map((header, i) => (
-                                        <td key={i}>{getValueForHeader(row as Record<string, string>, header)}</td>
+                                        <td key={i}>{getValueForHeader(row, header)}</td>
                                     ))}
                                 </tr>
                             ))}
