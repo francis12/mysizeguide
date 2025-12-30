@@ -1,0 +1,150 @@
+{
+    "common": {
+        "siteName": "SizeGuide",
+        "tagline": "Global Size Charts & Converter",
+        "home": "Home",
+        "brands": "Brands",
+        "compare": "Compare",
+        "faq": "FAQ",
+        "measurementGuide": "How to Measure",
+        "language": "Language",
+        "officialWebsite": "Official Website"
+    },
+    "footer": {
+        "navigation": "Navigation",
+        "popularBrands": "Popular Brands",
+        "categories": "Categories",
+        "allRightsReserved": "All rights reserved."
+    },
+    "sizePage": {
+        "title": "{brand} {category} Size Chart",
+        "subtitle": "Find your perfect size with our interactive converter",
+        "converter": {
+            "title": "Size Converter",
+            "placeholder": "Enter measurement",
+            "inputLabel": "Your measurement",
+            "result": "Your size is",
+            "noMatch": "No exact match found",
+            "closestMatch": "Closest match"
+        },
+        "table": {
+            "title": "Complete Size Chart",
+            "highlight": "Highlighted row matches your measurement"
+        },
+        "fitNotes": "Fit Notes",
+        "measurementGuide": "How to Measure",
+        "tips": "Tips",
+        "source": "Source",
+        "lastUpdated": "Last updated"
+    },
+    "faqs": {
+        "title": "Frequently Asked Questions",
+        "items": [
+            {
+                "question": "How do I measure myself correctly?",
+                "answer": "Use a flexible tape measure and keep it level. For chest/bust, measure at the fullest part. For waist, measure at the narrowest part (natural waist). For hips, measure at the fullest part."
+            },
+            {
+                "question": "What if I am between sizes?",
+                "answer": "If your measurements fall between two sizes, we generally recommend choosing the larger size for a more comfortable fit. However, if you prefer a tighter fit, you may opt for the smaller size."
+            },
+            {
+                "question": "Are these sizes the same for all brands?",
+                "answer": "No, sizing varies significantly between brands. Always refer to the specific size chart for the brand you are purchasing."
+            }
+        ]
+    },
+    "comparePage": {
+        "title": "Brand Size Comparison",
+        "subtitle": "Compare size charts between different brands",
+        "selectBrand1": "Select First Brand",
+        "selectBrand2": "Select Second Brand",
+        "selectCategory": "Select Category",
+        "compareButton": "Compare Sizes",
+        "recentComparisons": "Popular Comparisons",
+        "vs": "vs",
+        "sizeComparison": "Size Comparison",
+        "description": "See how {brand1} sizes compare to {brand2}",
+        "disclaimer": "Comparisons are approximate and based on official size charts."
+    },
+    "feedback": {
+        "button": "Report Issue",
+        "title": "Report Size Chart Issue",
+        "description": "Help us improve! Let us know if you found any inaccurate sizing information.",
+        "type": "Issue Type",
+        "typeOptions": {
+            "inaccurate": "Inaccurate Size Data",
+            "outdated": "Outdated Information",
+            "missing": "Missing Size",
+            "other": "Other"
+        },
+        "details": "Details",
+        "detailsPlaceholder": "Please describe the issue...",
+        "email": "Email (optional)",
+        "emailPlaceholder": "your@email.com",
+        "submit": "Submit Feedback",
+        "submitting": "Submitting...",
+        "success": "Thank you for your feedback!",
+        "close": "Close"
+    },
+    "units": {
+        "us_men": "US Men",
+        "us_women": "US Women",
+        "uk": "UK",
+        "eu": "EU",
+        "length_cm": "CM",
+        "cm": "CM",
+        "inch": "Inch",
+        "chest": "Chest",
+        "waist": "Waist",
+        "hip": "Hip",
+        "size": "Size"
+    },
+    "tableHeaders": {
+        "Size": "Size",
+        "US Size": "US Size",
+        "UK Size": "UK Size",
+        "EU Size": "EU Size",
+        "Bust (in)": "Bust (in)",
+        "Bust (cm)": "Bust (cm)",
+        "Chest (in)": "Chest (in)",
+        "Chest (cm)": "Chest (cm)",
+        "Waist (in)": "Waist (in)",
+        "Waist (cm)": "Waist (cm)",
+        "Hip (in)": "Hip (in)",
+        "Hip (cm)": "Hip (cm)",
+        "Hips (in)": "Hips (in)",
+        "Hips (cm)": "Hips (cm)",
+        "Neck (in)": "Neck (in)",
+        "Neck (cm)": "Neck (cm)",
+        "Sleeve (in)": "Sleeve (in)",
+        "Sleeve (cm)": "Sleeve (cm)",
+        "Inseam (in)": "Inseam (in)",
+        "Inseam (cm)": "Inseam (cm)"
+    },
+    "categories": {
+        "mens-shoes": "Men's Shoes",
+        "womens-shoes": "Women's Shoes",
+        "mens-tops": "Men's Tops",
+        "womens-tops": "Women's Tops",
+        "mens-bottoms": "Men's Bottoms",
+        "womens-bottoms": "Women's Bottoms",
+        "shoes": "Shoes",
+        "bras": "Bras",
+        "panties": "Panties",
+        "mens-jeans": "Men's Jeans",
+        "womens-jeans": "Women's Jeans",
+        "womens-dresses": "Women's Dresses",
+        "mens-underwear": "Men's Underwear",
+        "womens-underwear": "Women's Underwear",
+        "mens-outerwear": "Men's Outerwear",
+        "womens-outerwear": "Women's Outerwear",
+        "chuck-sneakers": "Chuck Taylor Sneakers",
+        "standard-sneakers": "Standard Sneakers"
+    },
+    "seo": {
+        "titleTemplate": "{brand} {category} Size Chart | Size Converter",
+        "descriptionTemplate": "Find your perfect {brand} {category} size. Convert between US, UK, EU and CM sizes instantly. Interactive size chart and measurement guide.",
+        "keywords": "size chart, size converter, {brand} sizing, {category} size guide"
+    }
+}

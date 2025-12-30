@@ -1,0 +1,193 @@
+{
+    "common": {
+        "siteName": "尺码指南",
+        "tagline": "全球尺码对照表 & 换算器",
+        "home": "首页",
+        "brands": "品牌",
+        "compare": "对比",
+        "faq": "常见问题",
+        "measurementGuide": "测量指南",
+        "language": "语言",
+        "officialWebsite": "官方网站"
+    },
+    "footer": {
+        "navigation": "导航",
+        "popularBrands": "热门品牌",
+        "categories": "分类",
+        "allRightsReserved": "版权所有"
+    },
+    "sizePage": {
+        "title": "{brand} {category} 尺码表",
+        "subtitle": "使用我们的交互式换算器找到您的完美尺码",
+        "converter": {
+            "title": "尺码换算器",
+            "placeholder": "输入尺寸",
+            "inputLabel": "您的测量值",
+            "result": "您的尺码是",
+            "noMatch": "未找到精确匹配",
+            "closestMatch": "最接近的尺码"
+        },
+        "table": {
+            "title": "完整尺码表",
+            "highlight": "高亮行匹配您的测量值"
+        },
+        "fitNotes": "穿着建议",
+        "measurementGuide": "如何测量",
+        "tips": "小贴士",
+        "source": "数据来源",
+        "lastUpdated": "最后更新"
+    },
+    "faqs": {
+        "title": "常见问题",
+        "items": [
+            {
+                "question": "如何正确测量身体？",
+                "answer": "使用软卷尺并保持水平。胸围测量最丰满处，腰围测量最细处（自然腰线），臀围测量最丰满处。"
+            },
+            {
+                "question": "如果在两个尺码之间怎么办？",
+                "answer": "如果您的测量值介于两个尺码之间，为了穿着舒适，我们通常建议选择较大的尺码。如果您喜欢紧身效果，也可以选择较小的尺码。"
+            },
+            {
+                "question": "所有品牌的尺码都一样吗？",
+                "answer": "不一样，不同品牌之间的尺码差异可能很大。请务必参考您要购买的品牌的具体尺码表。"
+            }
+        ]
+    },
+    "comparePage": {
+        "title": "品牌尺码对比",
+        "subtitle": "对比不同品牌的尺码表，找到最适合您的尺码",
+        "selectBrand1": "选择第一个品牌",
+        "selectBrand2": "选择第二个品牌",
+        "selectCategory": "选择分类",
+        "compareButton": "开始对比",
+        "recentComparisons": "热门对比",
+        "vs": "对比",
+        "sizeComparison": "尺码对比",
+        "description": "查看 {brand1} 与 {brand2} 的尺码差异",
+        "disclaimer": "对比仅供参考，基于官方尺码表。"
+    },
+    "feedback": {
+        "button": "报告问题",
+        "title": "报告尺码表问题",
+        "description": "帮助我们改进！如果您发现任何不准确的尺码信息，请告诉我们。",
+        "type": "问题类型",
+        "typeOptions": {
+            "inaccurate": "尺码数据不准确",
+            "outdated": "信息已过时",
+            "missing": "缺少尺码",
+            "other": "其他"
+        },
+        "details": "详细说明",
+        "detailsPlaceholder": "请描述问题...",
+        "email": "邮箱（可选）",
+        "emailPlaceholder": "您的邮箱",
+        "submit": "提交反馈",
+        "submitting": "提交中...",
+        "success": "感谢您的反馈！",
+        "close": "关闭"
+    },
+    "units": {
+        "us_men": "美码(男)",
+        "us_women": "美码(女)",
+        "uk": "英码",
+        "eu": "欧码",
+        "length_cm": "厘米",
+        "cm": "厘米",
+        "inch": "英寸",
+        "chest": "胸围",
+        "waist": "腰围",
+        "hip": "臀围",
+        "size": "尺码"
+    },
+    "tableHeaders": {
+        "Size": "尺码",
+        "US Size": "美码",
+        "UK Size": "英码",
+        "EU Size": "欧码",
+        "Bust (in)": "胸围(英寸)",
+        "Bust (cm)": "胸围(厘米)",
+        "Chest (in)": "胸围(英寸)",
+        "Chest (cm)": "胸围(厘米)",
+        "Waist (in)": "腰围(英寸)",
+        "Waist (cm)": "腰围(厘米)",
+        "Hip (in)": "臀围(英寸)",
+        "Hip (cm)": "臀围(厘米)",
+        "Hips (in)": "臀围(英寸)",
+        "Hips (cm)": "臀围(厘米)",
+        "Neck (in)": "领围(英寸)",
+        "Neck (cm)": "领围(厘米)",
+        "Sleeve (in)": "袖长(英寸)",
+        "Sleeve (cm)": "袖长(厘米)",
+        "Inseam (in)": "内缝(英寸)",
+        "Inseam (cm)": "内缝(厘米)"
+    },
+    "categories": {
+        "mens-shoes": "男鞋",
+        "womens-shoes": "女鞋",
+        "mens-tops": "男装上衣",
+        "womens-tops": "女装上衣",
+        "mens-bottoms": "男装下装",
+        "womens-bottoms": "女装下装",
+        "shoes": "鞋类",
+        "bras": "文胸",
+        "panties": "内裤",
+        "mens-jeans": "男士牛仔裤",
+        "womens-jeans": "女士牛仔裤",
+        "womens-dresses": "连衣裙",
+        "mens-underwear": "男士内衣",
+        "womens-underwear": "女士内衣",
+        "mens-outerwear": "男装外套",
+        "womens-outerwear": "女装外套",
+        "chuck-sneakers": "Chuck Taylor 运动鞋",
+        "standard-sneakers": "经典运动鞋"
+    },
+    "genericContent": {
+        "fitNotes": {
+            "shoes": "建议选择合脚的尺码。如果您的脚介于两个尺码之间，建议选择较大的尺码以确保舒适度。不同品牌的尺码可能略有差异，请参考具体的厘米数。",
+            "tops": "通常建议选择比日常穿着稍宽松的尺码。如果您的身材介于两个尺码之间，可以根据个人喜好选择合身或宽松版型。",
+            "bottoms": "裤装尺码以腰围和臀围为主要参考。如果腰围和臀围对应不同尺码，建议以臀围为准选择。",
+            "underwear": "内衣尺码建议选择贴身但不紧绷的尺码。如果介于两个尺码之间，可根据个人偏好选择舒适还是贴身。",
+            "default": "建议参考尺码表中的测量数据，选择最适合您身材的尺码。如果介于两个尺码之间，可根据个人穿着偏好选择。"
+        },
+        "measurementGuide": {
+            "shoes": "足长测量：站在纸上，脚后跟贴墙，用笔标记最长脚趾的位置。测量从墙到标记的距离（厘米）。建议在下午或晚上测量，此时脚部略有膨胀，更接近实际穿着状态。",
+            "tops": "胸围：将软尺绕过胸部最丰满处水平测量一圈。\n腰围：将软尺绕过自然腰线（肚脐上方约2.5厘米处）水平测量一圈。\n肩宽：从一侧肩端量到另一侧肩端。",
+            "bottoms": "腰围：将软尺绕过自然腰线水平测量一圈，保持呼吸自然。\n臀围：将软尺绕过臀部最丰满处水平测量一圈。\n内缝：从裆部测量到脚踝。",
+            "underwear": "腰围：将软尺绕过腰部最细处测量。\n臀围：将软尺绕过臀部最丰满处测量。\n文胸：测量下胸围和上胸围差值确定罩杯。",
+            "default": "请使用软尺进行测量，保持尺子贴合身体但不要过紧。建议穿着轻薄衣物或内衣进行测量，以获得最准确的数据。"
+        },
+        "tips": {
+            "shoes": [
+                "在下午或晚上测量脚长更准确",
+                "考虑袜子厚度选择尺码",
+                "不同款式可能需要不同尺码"
+            ],
+            "tops": [
+                "测量时保持自然站立姿势",
+                "穿着合身衣物或内衣测量",
+                "如喜欢宽松可选大一号"
+            ],
+            "bottoms": [
+                "腰围和臀围都要测量",
+                "如两个数据对应不同尺码，以臀围为准",
+                "注意内缝长度是否合适"
+            ],
+            "underwear": [
+                "选择舒适但不松垮的尺码",
+                "不同款式可能尺码略有不同",
+                "定期检查尺码是否仍然合适"
+            ],
+            "default": [
+                "使用软尺测量更准确",
+                "建议多测几次取平均值",
+                "如有疑问选择较大尺码"
+            ]
+        }
+    },
+    "seo": {
+        "titleTemplate": "{brand} {category} 尺码对照表 | 尺码换算器",
+        "descriptionTemplate": "查找您的完美 {brand} {category} 尺码。美码、英码、欧码、厘米尺码即时换算。交互式尺码表和测量指南。",
+        "keywords": "尺码表, 尺码换算, {brand}尺码, {category}尺码指南"
+    }
+}
