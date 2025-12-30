@@ -135,7 +135,7 @@ export default async function BrandsPage({
                                 {brand.categories.slice(0, 4).map((category) => (
                                     <Link
                                         key={category}
-                                        href={`/${currentLocale}/chart/${brand.slug}/${category}`}
+                                        href={`${currentLocale === 'en' ? '' : '/' + currentLocale}/chart/${brand.slug}/${category}`}
                                         className="flex items-center justify-between text-sm text-muted-foreground hover:text-primary transition-colors py-1.5 px-3 rounded-lg hover:bg-primary/5"
                                     >
                                         <span>{t.categories[category as keyof typeof t.categories] || category}</span>
@@ -150,7 +150,7 @@ export default async function BrandsPage({
                             </div>
 
                             <Link
-                                href={`/${currentLocale}/chart/${brand.slug}/${brand.categories[0]}`}
+                                href={`${currentLocale === 'en' ? '' : '/' + currentLocale}/chart/${brand.slug}/${brand.categories[0]}`}
                                 className="btn-glow w-full justify-center text-sm py-3"
                             >
                                 {isZh ? '查看尺码表' : 'View Size Chart'}

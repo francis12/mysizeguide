@@ -159,7 +159,7 @@ export default async function SizeChartPage({ params }: PageProps) {
                 "@type": "ListItem",
                 "position": 3,
                 "name": data.brand,
-                "item": `https://mysizeguide.com/${locale}/chart/${brand}`,
+                "item": `https://mysizeguide.com${locale === 'en' ? '' : '/' + locale}/brands`,
             },
             {
                 "@type": "ListItem",

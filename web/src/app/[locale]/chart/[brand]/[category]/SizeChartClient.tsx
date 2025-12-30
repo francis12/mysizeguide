@@ -124,7 +124,7 @@ export default function SizeChartClient({ data, locale, messages }: SizeChartCli
                     locale={locale}
                     items={[
                         { label: common.brands, href: `/${locale}/brands` },
-                        { label: brandName, href: `/${locale}/chart/${data.brand_slug}` },
+                        { label: brandName, href: locale === 'en' ? '/brands' : `/${locale}/brands` },
                         { label: categoryName },
                     ]}
                 />

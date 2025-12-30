@@ -38,7 +38,8 @@ export default function CompareClient({ brands, messages, locale }: CompareClien
 
     const handleCompare = () => {
         if (brand1 && brand2 && category) {
-            router.push(`/${locale}/compare/${brand1}-vs-${brand2}/${category}`);
+            const prefix = locale === 'en' ? '' : `/${locale}`;
+            router.push(`${prefix}/compare/${brand1}-vs-${brand2}/${category}`);
         }
     };
 

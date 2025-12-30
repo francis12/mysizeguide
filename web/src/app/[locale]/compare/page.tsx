@@ -57,7 +57,7 @@ export default async function ComparePage({
                     <h2 className="text-2xl font-bold text-center mb-8 gradient-text">{t.comparePage.recentComparisons}</h2>
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto">
                         {/* Example Quick Links */}
-                        <a href={`/${currentLocale}/compare/nike-vs-adidas/mens-shoes`} className="glass-card p-6 flex items-center justify-between group hover:border-primary/50">
+                        <a href={`${currentLocale === 'en' ? '' : '/' + currentLocale}/compare/nike-vs-adidas/mens-shoes`} className="glass-card p-6 flex items-center justify-between group hover:border-primary/50">
                             <div className="flex items-center gap-4">
                                 <span className="font-bold">Nike</span>
                                 <ArrowLeftRight className="w-4 h-4 text-muted-foreground" />
@@ -65,7 +65,7 @@ export default async function ComparePage({
                             </div>
                             <span className="text-xs text-muted-foreground border border-border px-2 py-1 rounded-full">Shoes</span>
                         </a>
-                        <a href={`/${currentLocale}/compare/zara-vs-hm/womens-tops`} className="glass-card p-6 flex items-center justify-between group hover:border-primary/50">
+                        <a href={`${currentLocale === 'en' ? '' : '/' + currentLocale}/compare/zara-vs-hm/womens-tops`} className="glass-card p-6 flex items-center justify-between group hover:border-primary/50">
                             <div className="flex items-center gap-4">
                                 <span className="font-bold">Zara</span>
                                 <ArrowLeftRight className="w-4 h-4 text-muted-foreground" />
@@ -73,7 +73,7 @@ export default async function ComparePage({
                             </div>
                             <span className="text-xs text-muted-foreground border border-border px-2 py-1 rounded-full">Tops</span>
                         </a>
-                        <a href={`/${currentLocale}/compare/uniqlo-vs-gap/mens-bottoms`} className="glass-card p-6 flex items-center justify-between group hover:border-primary/50">
+                        <a href={`${currentLocale === 'en' ? '' : '/' + currentLocale}/compare/uniqlo-vs-gap/mens-bottoms`} className="glass-card p-6 flex items-center justify-between group hover:border-primary/50">
                             <div className="flex items-center gap-4">
                                 <span className="font-bold">Uniqlo</span>
                                 <ArrowLeftRight className="w-4 h-4 text-muted-foreground" />
