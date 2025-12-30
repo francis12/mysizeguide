@@ -9,6 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://mysizeguide.com'),
   title: {
     default: "SizeGuide - Global Size Charts & Converter",
     template: "%s | SizeGuide",

@@ -1,7 +1,27 @@
 import Link from 'next/link';
 import { ArrowRight, Zap, Globe2, BarChart3, Sparkles, Ruler, HelpCircle, ChevronDown } from 'lucide-react';
 import { type Locale } from '@/i18n/config';
+import { Metadata } from 'next';
 import FAQAccordion from '@/components/FAQAccordion';
+
+export async function generateMetadata({
+    params,
+}: {
+    params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+    const { locale } = await params;
+    const currentLocale = locale as Locale;
+
+    return {
+        alternates: {
+            canonical: currentLocale === 'en' ? '/' : `/${locale}`,
+            languages: {
+                'en': '/',
+                'zh': '/zh',
+            },
+        },
+    };
+}
 
 import enMessages from '@/i18n/messages/en.json';
 import zhMessages from '@/i18n/messages/zh.json';

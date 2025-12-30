@@ -187,7 +187,7 @@
     },
     "seo": {
         "titleTemplate": "{brand} {category} 尺码对照表 | 尺码换算器",
-        "descriptionTemplate": "查找您的完美 {brand} {category} 尺码。美码、英码、欧码、厘米尺码即时换算。交互式尺码表和测量指南。",
+        "descriptionTemplate": "查找您的完美 {brand} {category} 尺码。即时换算美码(US)、英码(UK)、欧码(EU)和厘米(CM)数据。使用我们精准的交互式尺码表和测量指南，告别网购尺码困扰，一次买对。",
         "keywords": "尺码表, 尺码换算, {brand}尺码, {category}尺码指南"
     }
 }

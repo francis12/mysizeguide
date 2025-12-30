@@ -144,7 +144,7 @@
     },
     "seo": {
         "titleTemplate": "{brand} {category} Size Chart | Size Converter",
-        "descriptionTemplate": "Find your perfect {brand} {category} size. Convert between US, UK, EU and CM sizes instantly. Interactive size chart and measurement guide.",
+        "descriptionTemplate": "Find your perfect {brand} {category} size with our accurate charts. Convert US, UK, EU & CM sizes instantly. Eliminate sizing guesswork with our interactive guide.",
         "keywords": "size chart, size converter, {brand} sizing, {category} size guide"
     }
 }
