@@ -30,20 +30,23 @@ export default function Footer({ locale, messages }: FooterProps) {
     const currentYear = new Date().getFullYear();
 
     const popularBrands = [
-        { name: 'Nike', slug: 'nike' },
-        { name: 'Adidas', slug: 'adidas' },
-        { name: 'Zara', slug: 'zara' },
-        { name: 'H&M', slug: 'hm' },
-        { name: 'Uniqlo', slug: 'uniqlo' },
-        { name: 'Puma', slug: 'puma' },
+        { name: 'Nike', slug: 'nike', category: 'mens-shoes' },
+        { name: 'Adidas', slug: 'adidas', category: 'mens-shoes' },
+        { name: 'Zara', slug: 'zara', category: 'womens-tops' },
+        { name: 'H&M', slug: 'hm', category: 'mens-tops' },
+        { name: 'Uniqlo', slug: 'uniqlo', category: 'mens-tops' },
+        { name: 'Puma', slug: 'puma', category: 'mens-shoes' },
     ];
 
     const categoryLinks = [
-        { slug: 'mens-shoes' },
-        { slug: 'womens-shoes' },
-        { slug: 'mens-tops' },
-        { slug: 'womens-tops' },
+        { slug: 'mens-shoes', brand: 'nike' },
+        { slug: 'womens-shoes', brand: 'nike' },
+        { slug: 'mens-tops', brand: 'zara' },
+        { slug: 'womens-tops', brand: 'zara' },
     ];
+
+    // Helper for clean URLs
+    const getLocalePath = (path: string) => locale === 'en' ? path : `/${locale}${path}`;
 
     return (
         <footer className="relative overflow-hidden border-t border-border/50 mt-auto">
@@ -74,7 +77,7 @@ export default function Footer({ locale, messages }: FooterProps) {
                         <ul className="space-y-3">
                             <li>
                                 <Link
-                                    href={`/${locale}`}
+                                    href={getLocalePath('/')}
                                     className="text-muted-foreground hover:text-primary transition-colors text-sm"
                                 >
                                     {t.home}
@@ -82,7 +85,7 @@ export default function Footer({ locale, messages }: FooterProps) {
                             </li>
                             <li>
                                 <Link
-                                    href={`/${locale}/brands`}
+                                    href={getLocalePath('/brands')}
                                     className="text-muted-foreground hover:text-primary transition-colors text-sm"
                                 >
                                     {t.brands}
@@ -90,18 +93,10 @@ export default function Footer({ locale, messages }: FooterProps) {
                             </li>
                             <li>
                                 <Link
-                                    href={`/${locale}/compare`}
+                                    href={getLocalePath('/compare')}
                                     className="text-muted-foreground hover:text-primary transition-colors text-sm"
                                 >
                                     {t.compare}
-                                </Link>
-                            </li>
-                            <li>
-                                <Link
-                                    href={`/${locale}/guide`}
-                                    className="text-muted-foreground hover:text-primary transition-colors text-sm"
-                                >
-                                    {t.measurementGuide}
                                 </Link>
                             </li>
                         </ul>
@@ -114,7 +109,7 @@ export default function Footer({ locale, messages }: FooterProps) {
                             {popularBrands.map((brand) => (
                                 <li key={brand.slug}>
                                     <Link
-                                        href={`/${locale}/chart/${brand.slug}`}
+                                        href={getLocalePath(`/chart/${brand.slug}/${brand.category}`)}
                                         className="text-muted-foreground hover:text-primary transition-colors text-sm"
                                     >
                                         {brand.name}
@@ -131,7 +126,7 @@ export default function Footer({ locale, messages }: FooterProps) {
                             {categoryLinks.map((cat) => (
                                 <li key={cat.slug}>
                                     <Link
-                                        href={`/${locale}/category/${cat.slug}`}
+                                        href={getLocalePath(`/chart/${cat.brand}/${cat.slug}`)}
                                         className="text-muted-foreground hover:text-primary transition-colors text-sm"
                                     >
                                         {categories[cat.slug] || cat.slug}
