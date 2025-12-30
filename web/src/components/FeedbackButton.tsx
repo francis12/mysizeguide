@@ -46,26 +46,38 @@ export default function FeedbackButton({ brandName, categoryName, messages }: Fe
         e.preventDefault();
         setIsSubmitting(true);
 
-        // Simulate API call - in production, send to your backend
-        await new Promise(resolve => setTimeout(resolve, 1000));
+        try {
+            const response = await fetch('/api/feedback', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    brand: brandName,
+                    category: categoryName,
+                    ...formData,
+                    timestamp: new Date().toISOString(),
+                }),
+            });
 
-        // Log feedback (in production, send to database/email)
-        console.log('Feedback submitted:', {
-            brand: brandName,
-            category: categoryName,
-            ...formData,
-            timestamp: new Date().toISOString(),
-        });
+            if (!response.ok) {
+                throw new Error('Failed to submit feedback');
+            }
 
-        setIsSubmitting(false);
-        setIsSuccess(true);
+            setIsSuccess(true);
 
-        // Reset after 2 seconds
-        setTimeout(() => {
-            setIsOpen(false);
-            setIsSuccess(false);
-            setFormData({ type: 'inaccurate', details: '', email: '' });
-        }, 2000);
+            // Reset after 2 seconds
+            setTimeout(() => {
+                setIsOpen(false);
+                setIsSuccess(false);
+                setFormData({ type: 'inaccurate', details: '', email: '' });
+            }, 2000);
+        } catch (error) {
+            console.error('Error submitting feedback:', error);
+            alert('Failed to submit feedback. Please try again.');
+        } finally {
+            setIsSubmitting(false);
+        }
     };
 
     return (
