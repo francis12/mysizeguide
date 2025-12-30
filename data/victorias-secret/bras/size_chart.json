@@ -1,0 +1,184 @@
+{
+    "brand": "Victoria's Secret",
+    "brand_slug": "victorias-secret",
+    "category": "Bras",
+    "category_slug": "bras",
+    "gender": "Women",
+    "source_url": "https://www.victoriassecret.com/us/vs/bras/bra-fit-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Victoria's Secret bra sizes range from band sizes 30-46 and cup sizes A-O. Not all styles are available in all sizes. Free in-store bra fitting services are available.",
+    "unit_system": [
+        "INCH",
+        "CM"
+    ],
+    "size_chart": {
+        "band_sizes": {
+            "headers": [
+                "Band Size",
+                "Under Bust (in)",
+                "Under Bust (cm)"
+            ],
+            "rows": [
+                {
+                    "Band": "30",
+                    "UnderBust_IN": "26-27",
+                    "UnderBust_CM": "66-69"
+                },
+                {
+                    "Band": "32",
+                    "UnderBust_IN": "28-29",
+                    "UnderBust_CM": "71-74"
+                },
+                {
+                    "Band": "34",
+                    "UnderBust_IN": "30-31",
+                    "UnderBust_CM": "76-79"
+                },
+                {
+                    "Band": "36",
+                    "UnderBust_IN": "32-33",
+                    "UnderBust_CM": "81-84"
+                },
+                {
+                    "Band": "38",
+                    "UnderBust_IN": "34-35",
+                    "UnderBust_CM": "86-89"
+                },
+                {
+                    "Band": "40",
+                    "UnderBust_IN": "36-37",
+                    "UnderBust_CM": "91-94"
+                },
+                {
+                    "Band": "42",
+                    "UnderBust_IN": "38-39",
+                    "UnderBust_CM": "97-99"
+                },
+                {
+                    "Band": "44",
+                    "UnderBust_IN": "40-41",
+                    "UnderBust_CM": "102-104"
+                },
+                {
+                    "Band": "46",
+                    "UnderBust_IN": "42-43",
+                    "UnderBust_CM": "107-109"
+                }
+            ]
+        },
+        "cup_sizes": {
+            "notes": "Subtract band measurement from bust measurement to determine cup size",
+            "headers": [
+                "Difference (in)",
+                "Cup Size",
+                "US Size",
+                "UK Size"
+            ],
+            "rows": [
+                {
+                    "Difference": "<1",
+                    "Cup": "AA",
+                    "US": "AA",
+                    "UK": "AA"
+                },
+                {
+                    "Difference": "1",
+                    "Cup": "A",
+                    "US": "A",
+                    "UK": "A"
+                },
+                {
+                    "Difference": "2",
+                    "Cup": "B",
+                    "US": "B",
+                    "UK": "B"
+                },
+                {
+                    "Difference": "3",
+                    "Cup": "C",
+                    "US": "C",
+                    "UK": "C"
+                },
+                {
+                    "Difference": "4",
+                    "Cup": "D",
+                    "US": "D",
+                    "UK": "D"
+                },
+                {
+                    "Difference": "5",
+                    "Cup": "DD",
+                    "US": "DD",
+                    "UK": "DD/E"
+                },
+                {
+                    "Difference": "6",
+                    "Cup": "DDD",
+                    "US": "DDD",
+                    "UK": "E/F"
+                },
+                {
+                    "Difference": "7",
+                    "Cup": "G",
+                    "US": "G",
+                    "UK": "F"
+                },
+                {
+                    "Difference": "8",
+                    "Cup": "H",
+                    "US": "H",
+                    "UK": "FF"
+                },
+                {
+                    "Difference": "9",
+                    "Cup": "I",
+                    "US": "I",
+                    "UK": "G"
+                }
+            ]
+        },
+        "bralette_sizes": {
+            "headers": [
+                "Size",
+                "Band Size Range",
+                "Cup Size Range"
+            ],
+            "rows": [
+                {
+                    "Size": "XS",
+                    "Band": "30-32",
+                    "Cup": "A-B"
+                },
+                {
+                    "Size": "S",
+                    "Band": "32-34",
+                    "Cup": "A-C"
+                },
+                {
+                    "Size": "M",
+                    "Band": "34-36",
+                    "Cup": "B-D"
+                },
+                {
+                    "Size": "L",
+                    "Band": "36-38",
+                    "Cup": "C-DD"
+                },
+                {
+                    "Size": "XL",
+                    "Band": "38-40",
+                    "Cup": "D-DDD"
+                }
+            ]
+        }
+    },
+    "fit_notes": "A well-fitting bra should have a snug band that doesn't ride up, straps that don't dig in, and cups that fully contain breast tissue without gaping or spillage. The band provides 80% of support.",
+    "measurement_guide": {
+        "how_to_measure": "Band Measurement: Wearing a non-padded bra, wrap a soft measuring tape around your back at band level, just under your arms and above your bust where your bra straps meet the top of the cup. Keep the tape snug and parallel to the ground. If the number is odd, round down to the closest even number.\n\nBust Measurement: Keep the tape around your back at band level, then measure around the fullest part of your bust. Make sure to leave a small gap (about a finger's width) between the tape and your bust, allowing for a full breath.\n\nCup Size Calculation: Subtract your band measurement from your bust measurement. Each inch of difference equals one cup size.",
+        "tips": [
+            "Measure while wearing a non-padded or lightly lined bra",
+            "Free in-store bra fitting services are available at Victoria's Secret stores",
+            "Sister sizes: If 34C doesn't fit, try 32D (smaller band, larger cup) or 36B (larger band, smaller cup)"
+        ]
+    }
+}

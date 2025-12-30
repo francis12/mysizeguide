@@ -1,0 +1,146 @@
+{
+    "brand": "Adidas",
+    "brand_slug": "adidas",
+    "category": "Women's Tops",
+    "category_slug": "womens-tops",
+    "gender": "Women",
+    "source_url": "https://www.adidas.com/us/help/size-charts",
+    "collected_date": "2025-12-29",
+    "notes": "Adidas offers Standard, Petite (for women up to 165 cm/5'5\"), and Tall (for women over 179 cm/5'10\") sizing options.",
+    "unit_system": [
+        "CM"
+    ],
+    "size_chart": {
+        "standard": {
+            "headers": [
+                "Size",
+                "EU Size",
+                "Bust (cm)",
+                "Waist (cm)"
+            ],
+            "rows": [
+                {
+                    "Size": "2XS",
+                    "EU": "26-28",
+                    "Bust_CM": "73-76",
+                    "Waist_CM": "57-60"
+                },
+                {
+                    "Size": "XS",
+                    "EU": "30-32",
+                    "Bust_CM": "77-82",
+                    "Waist_CM": "61-66"
+                },
+                {
+                    "Size": "S",
+                    "EU": "34-36",
+                    "Bust_CM": "83-88",
+                    "Waist_CM": "67-72"
+                },
+                {
+                    "Size": "M",
+                    "EU": "38-40",
+                    "Bust_CM": "89-94",
+                    "Waist_CM": "73-78"
+                },
+                {
+                    "Size": "L",
+                    "EU": "42-44",
+                    "Bust_CM": "95-101",
+                    "Waist_CM": "79-85"
+                },
+                {
+                    "Size": "XL",
+                    "EU": "46-48",
+                    "Bust_CM": "102-109",
+                    "Waist_CM": "86-94"
+                },
+                {
+                    "Size": "XXL",
+                    "EU": "50-52",
+                    "Bust_CM": "110-118",
+                    "Waist_CM": "95-104"
+                }
+            ]
+        },
+        "petite": {
+            "notes": "For women up to 165 cm (5'5\") tall",
+            "rows": [
+                {
+                    "Size": "2XS Petite",
+                    "Bust_CM": "73-76",
+                    "Waist_CM": "57-60"
+                },
+                {
+                    "Size": "XS Petite",
+                    "Bust_CM": "77-82",
+                    "Waist_CM": "61-66"
+                },
+                {
+                    "Size": "S Petite",
+                    "Bust_CM": "83-88",
+                    "Waist_CM": "67-72"
+                },
+                {
+                    "Size": "M Petite",
+                    "Bust_CM": "89-94",
+                    "Waist_CM": "73-78"
+                },
+                {
+                    "Size": "L Petite",
+                    "Bust_CM": "95-101",
+                    "Waist_CM": "79-85"
+                },
+                {
+                    "Size": "XL Petite",
+                    "Bust_CM": "102-109",
+                    "Waist_CM": "86-94"
+                },
+                {
+                    "Size": "2XL Petite",
+                    "Bust_CM": "110-118",
+                    "Waist_CM": "95-104"
+                }
+            ]
+        },
+        "tall": {
+            "notes": "For women over 179 cm (5'10\") tall",
+            "rows": [
+                {
+                    "Size": "S Tall",
+                    "Bust_CM": "83-88",
+                    "Waist_CM": "67-72"
+                },
+                {
+                    "Size": "M Tall",
+                    "Bust_CM": "89-94",
+                    "Waist_CM": "73-78"
+                },
+                {
+                    "Size": "L Tall",
+                    "Bust_CM": "95-101",
+                    "Waist_CM": "79-85"
+                },
+                {
+                    "Size": "XL Tall",
+                    "Bust_CM": "102-109",
+                    "Waist_CM": "86-94"
+                },
+                {
+                    "Size": "2XL Tall",
+                    "Bust_CM": "110-118",
+                    "Waist_CM": "95-104"
+                }
+            ]
+        }
+    },
+    "fit_notes": "If your bust and waist measurements suggest different sizes, it is generally recommended to order based on your bust measurement.",
+    "measurement_guide": {
+        "how_to_measure": "Bust: Measure around the fullest part of your bust while wearing a well-fitting bra.\nWaist: Bend to one side to find the natural crease of your waistline and measure around it.",
+        "tips": [
+            "Keep the measuring tape level and snug but not tight",
+            "Petite sizing offers shorter body and sleeve lengths",
+            "Tall sizing offers longer body and sleeve lengths"
+        ]
+    }
+}

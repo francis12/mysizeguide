@@ -1,0 +1,89 @@
+{
+    "brand": "Zara",
+    "brand_slug": "zara",
+    "category": "Women's Tops",
+    "category_slug": "womens-tops",
+    "gender": "Women",
+    "source_url": "https://www.zara.com/help/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Zara primarily uses European sizing. Zara sizing may run smaller than typical US sizes. Use the 'Find Your Size' tool on product pages for personalized recommendations.",
+    "unit_system": [
+        "CM",
+        "INCH"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "EU Size",
+            "UK Size",
+            "Bust (cm)",
+            "Bust (in)",
+            "Waist (cm)",
+            "Waist (in)"
+        ],
+        "rows": [
+            {
+                "Size": "XS",
+                "EU": "34",
+                "UK": "6",
+                "Bust_CM": "80-84",
+                "Bust_IN": "31.5-33",
+                "Waist_CM": "60-64",
+                "Waist_IN": "23.5-25"
+            },
+            {
+                "Size": "S",
+                "EU": "36",
+                "UK": "8",
+                "Bust_CM": "84-88",
+                "Bust_IN": "33-34.5",
+                "Waist_CM": "64-68",
+                "Waist_IN": "25-27"
+            },
+            {
+                "Size": "M",
+                "EU": "38",
+                "UK": "10",
+                "Bust_CM": "88-92",
+                "Bust_IN": "34.5-36",
+                "Waist_CM": "68-72",
+                "Waist_IN": "27-28.5"
+            },
+            {
+                "Size": "L",
+                "EU": "40",
+                "UK": "12",
+                "Bust_CM": "92-96",
+                "Bust_IN": "36-38",
+                "Waist_CM": "72-76",
+                "Waist_IN": "28.5-30"
+            },
+            {
+                "Size": "XL",
+                "EU": "42",
+                "UK": "14",
+                "Bust_CM": "96-100",
+                "Bust_IN": "38-39.5",
+                "Waist_CM": "76-80",
+                "Waist_IN": "30-31.5"
+            },
+            {
+                "Size": "XXL",
+                "EU": "44",
+                "UK": "16",
+                "Bust_CM": "100-104",
+                "Bust_IN": "39.5-41",
+                "Waist_CM": "80-84",
+                "Waist_IN": "31.5-33"
+            }
+        ]
+    },
+    "fit_notes": "Zara sizing tends to run smaller than typical US sizing. If between sizes, consider sizing up especially for a relaxed fit.",
+    "measurement_guide": {
+        "how_to_measure": "Bust: Measure around the fullest part of your bust, wearing a well-fitting bra.\nWaist: Measure at the narrowest point of your natural waist.",
+        "tips": [
+            "Use Zara's 'Find Your Size' tool on product pages",
+            "Check product reviews for fit feedback"
+        ]
+    }
+}

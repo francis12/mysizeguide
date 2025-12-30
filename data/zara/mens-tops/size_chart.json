@@ -1,0 +1,68 @@
+{
+    "brand": "Zara",
+    "brand_slug": "zara",
+    "category": "Men's Tops",
+    "category_slug": "mens-tops",
+    "gender": "Men",
+    "source_url": "https://www.zara.com/help/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Zara primarily uses European sizing. Zara sizing can sometimes run smaller than standard US sizes. Check the 'Find Your Size' tool on product pages for specific fit recommendations.",
+    "unit_system": [
+        "CM",
+        "INCH"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "UK Size",
+            "EU Size",
+            "Chest (in)",
+            "Chest (cm)"
+        ],
+        "rows": [
+            {
+                "Size": "S",
+                "UK": "36",
+                "EU": "46",
+                "Chest_IN": "35-36.5",
+                "Chest_CM": "89-93"
+            },
+            {
+                "Size": "M",
+                "UK": "38",
+                "EU": "48",
+                "Chest_IN": "37-38.5",
+                "Chest_CM": "94-98"
+            },
+            {
+                "Size": "L",
+                "UK": "40",
+                "EU": "50",
+                "Chest_IN": "39-40.5",
+                "Chest_CM": "99-103"
+            },
+            {
+                "Size": "XL",
+                "UK": "42",
+                "EU": "52",
+                "Chest_IN": "41-42.5",
+                "Chest_CM": "104-108"
+            },
+            {
+                "Size": "XXL",
+                "UK": "44",
+                "EU": "54",
+                "Chest_IN": "43-45",
+                "Chest_CM": "109-114"
+            }
+        ]
+    },
+    "fit_notes": "Zara sizing runs slightly smaller than typical US sizing. If between sizes, consider sizing up. Individual products may have slight variations in fit.",
+    "measurement_guide": {
+        "how_to_measure": "Chest: Measure around the fullest part of your chest, keeping the tape measure horizontal.",
+        "tips": [
+            "Use Zara's 'Find Your Size' tool on product pages for personalized recommendations",
+            "Consider sizing up if you prefer a relaxed fit"
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "brand": "Puma",
+    "brand_slug": "puma",
+    "category": "Women's Bottoms",
+    "category_slug": "womens-bottoms",
+    "gender": "Women",
+    "source_url": "https://www.puma.com/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Measurements are body measurements in centimeters.",
+    "unit_system": [
+        "CM"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "UK Size",
+            "US Size",
+            "Waist (cm)",
+            "Hip (cm)"
+        ],
+        "rows": [
+            {
+                "Size": "XXS",
+                "UK": "6",
+                "US": "2",
+                "Waist_CM": "62",
+                "Hip_CM": "90"
+            },
+            {
+                "Size": "XS",
+                "UK": "8",
+                "US": "4",
+                "Waist_CM": "65",
+                "Hip_CM": "93"
+            },
+            {
+                "Size": "S",
+                "UK": "10",
+                "US": "6-8",
+                "Waist_CM": "68",
+                "Hip_CM": "96"
+            },
+            {
+                "Size": "M",
+                "UK": "12",
+                "US": "10-12",
+                "Waist_CM": "74",
+                "Hip_CM": "101"
+            },
+            {
+                "Size": "L",
+                "UK": "14",
+                "US": "14-16",
+                "Waist_CM": "81",
+                "Hip_CM": "106.5"
+            },
+            {
+                "Size": "XL",
+                "UK": "16",
+                "US": "18",
+                "Waist_CM": "86.5",
+                "Hip_CM": "112"
+            },
+            {
+                "Size": "XXL",
+                "UK": "18",
+                "US": "20",
+                "Waist_CM": "91.5",
+                "Hip_CM": "117"
+            },
+            {
+                "Size": "3XL",
+                "UK": "20",
+                "US": "22",
+                "Waist_CM": "97",
+                "Hip_CM": "122"
+            }
+        ]
+    },
+    "fit_notes": "If between sizes, size up for comfort. Hip measurement is typically more important for bottoms sizing.",
+    "measurement_guide": {
+        "how_to_measure": "Waist: Measure at the narrowest part of your waist.\nHips: Measure at the fullest part of your hips.",
+        "tips": [
+            "Different fits (Regular, Slim, Wide Leg) will fit differently in the same size"
+        ]
+    }
+}

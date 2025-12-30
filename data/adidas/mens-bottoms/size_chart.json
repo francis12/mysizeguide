@@ -1,0 +1,65 @@
+{
+    "brand": "Adidas",
+    "brand_slug": "adidas",
+    "category": "Men's Bottoms",
+    "category_slug": "mens-bottoms",
+    "gender": "Men",
+    "source_url": "https://www.adidas.com/us/help/size-charts",
+    "collected_date": "2025-12-29",
+    "notes": "Measurements are body measurements in centimeters. If hip and waist suggest different sizes, choose size based on hip measurement.",
+    "unit_system": [
+        "CM"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "Waist (cm)",
+            "Hip (cm)"
+        ],
+        "rows": [
+            {
+                "Size": "XS",
+                "Waist_CM": "71-74",
+                "Hip_CM": "82-85"
+            },
+            {
+                "Size": "S",
+                "Waist_CM": "75-80",
+                "Hip_CM": "86-91"
+            },
+            {
+                "Size": "M",
+                "Waist_CM": "81-88",
+                "Hip_CM": "92-99"
+            },
+            {
+                "Size": "L",
+                "Waist_CM": "89-96",
+                "Hip_CM": "100-107"
+            },
+            {
+                "Size": "XL",
+                "Waist_CM": "97-106",
+                "Hip_CM": "108-116"
+            },
+            {
+                "Size": "2XL",
+                "Waist_CM": "107-119",
+                "Hip_CM": "117-125"
+            },
+            {
+                "Size": "3XL",
+                "Waist_CM": "120-132",
+                "Hip_CM": "126-135"
+            }
+        ]
+    },
+    "fit_notes": "Adidas offers various fits including Regular, Slim, and Relaxed. If between sizes, size up for a looser fit or size down for a tighter fit.",
+    "measurement_guide": {
+        "how_to_measure": "Waist: Measure around the narrowest part of your waist horizontally.\nHip: Measure around the fullest point of your hip with your feet together, keeping the tape parallel to the floor.",
+        "tips": [
+            "If hip and waist measurements suggest different sizes, use hip measurement for bottoms",
+            "Consider intended fit (slim vs relaxed) when choosing size"
+        ]
+    }
+}

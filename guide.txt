@@ -1,0 +1,76 @@
+
+这是一个非常棒的切入点。“跨境电商尺码对照” (Global Size Charts) 具有以下完美的 pSEO 特征：
+高刚需： “US 8 是多少码？” “Shein 的 S 码和 Zara 一样吗？” 每天有数百万次搜索。
+数据结构化： 所有尺码表本质上都是 Excel 表格，非常容易转化成数据库。
+长尾词无限： 品牌 x 品类 x 性别 x 国家（例如：Nike women shoes size chart US vs EU）。
+竞品普遍很烂： 目前的竞品大多是 SEO 垃圾站，全是广告，表格是死图（无法复制，手机看不清），且不支持动态换算。
+以下是结合 AI 编程 + Programmatic SEO 的具体实施全案：
+第一步：定义数据结构（你的核心资产）
+不要一开始就写代码，先用 AI 定义好你的“原材料”标准。既然是尺码站，核心就是标准化的数据。
+数据库设计 (PostgreSQL / Supabase 推荐):
+你需要三个核心表。让 Cursor 或 ChatGPT 帮你写 SQL 建表语句：
+Brands (品牌表): id, name, slug (e.g., nike), website, logo_url.
+Categories (品类表): id, name, slug (e.g., mens-shoes, womens-dresses), parent_category.
+SizeMaps (尺码数据表 - 最关键):
+brand_id
+category_id
+data (JSONB 格式) -> 这是核心。
+JSON 数据结构示例 (Prompt 给 AI 看的):
+code
+JSON
+{
+  "unit_system": ["US", "UK", "EU", "CM", "INCH"],
+  "rows": [
+    {"US": "7", "UK": "6", "EU": "40", "CM": "25", "INCH": "9.8"},
+    {"US": "7.5", "UK": "6.5", "EU": "40.5", "CM": "25.5", "INCH": "10"}
+  ]
+}
+第二步：数据采集流水线 (AI Vision 是神器)
+不要去写复杂的 Python 爬虫去解析 HTML 表格，因为每个电商网站的 HTML 都不一样。使用 AI 的视觉能力。
+操作流程：
+人工/半自动收集： 找到 Top 50 热门品牌（Nike, Adidas, Zara, H&M, Shein, Uniqlo, Levi's...）的尺码表页面。
+截图： 把尺码表截图下来。
+GPT-4o / Claude 3.5 API 处理：
+写一个简单的脚本（或者直接在 Cursor 里写），调用 OpenAI API。
+Prompt: "分析这张图片，提取其中的尺码数据，并严格按照我指定的 JSON 格式输出。不要废话，只给 JSON。"
+入库： 把 AI 返回的 JSON 存入 Supabase。
+为什么这样做？ 速度极快，准确率极高，且不用担心网站反爬虫（因为你只需要截图）。
+第三步：产品开发 (Next.js + 降维打击)
+这是你超越老旧 SEO 站的地方。你要做的不是“展示一张图”，而是做一个**“交互式转换器”**。
+页面规划 (Programmatic Routes):
+1. 单一品牌页: /chart/[brand]/[category]
+URL: your-site.com/chart/nike/mens-shoes
+H1: Nike Men's Shoes Size Chart & Converter (US, UK, EU, CM)
+杀手级功能 (Killer Feature):
+页面顶部放一个输入框：Input: [ 25.5 ] [ CM ]
+实时显示：= US 7.5 | UK 6.5 | EU 40.5
+用户体验秒杀那些还要我在表格里一行行找的网站。
+2. 品牌对比页 (流量大杀器): /compare/[brand1]-vs-[brand2]/[category]
+URL: your-site.com/compare/nike-vs-adidas/mens-shoes
+H1: Nike vs Adidas Size Comparison: Do they fit the same?
+逻辑: 从数据库调出两组 JSON，在前端进行对齐。
+结论: 自动计算并生成文案 -> "Nike US 8 is 26cm, but Adidas US 8 is 25.5cm. Adidas runs smaller." (这种结论性内容 Google 极其喜欢)。
+代码实操 (Prompt for Cursor):
+"创建一个 Next.js 动态路由页面。读取 Supabase 中的 JSON 数据。使用 ShadcnUI 的 Table 组件展示数据。同时，在表格上方创建一个交互式组件：当用户输入 CM 或 Inch 数值时，自动高亮表格中对应的行，并换算出 US/UK/EU 码数。"
+第四步：SEO 增强 (让 Google 读懂你)
+1. 结构化数据 (Schema Markup):
+尺码表有专门的 Schema，叫 SizeSpecification (虽然比较冷门)，或者直接用 Table schema。
+更重要的是 FAQ Schema。
+Question: "Is Nike true to size?"
+Answer: (利用 AI 根据网上的评论数据预生成一句简短评价) "Generally, Nike fits true to size, but runs slightly narrower than Adidas."
+2. 内部链接网 (Internal Linking):
+在 Nike 的页面，侧边栏自动生成："Compare Nike with: Adidas, Puma, New Balance..."
+这些链接引导爬虫抓取你的对比页面。
+3. 面包屑导航 (Breadcrumbs):
+Home > Brands > Nike > Men's Shoes -> 极其重要，增加权重。
+第五步：内容差异化 (避免被判重复)
+如果你有 1000 个页面，只有表格不同，Google 会觉得内容单薄。你需要给每个页面加“佐料”。
+利用 AI 批量生成独特的文本段落：
+Brand Intro: 介绍该品牌的尺码特点（例如：Shein 尺码通常偏小，建议买大一号）。
+Measurement Guide: 针对“鞋子”和“T恤”放不同的通用指南（如何量脚长 vs 如何量胸围）。这段内容可以复用，但中间插入品牌名变量。
+第六步：变现闭环
+Affiliate (联盟营销):
+在尺码表旁边放按钮：Shop Nike Men's Shoes on Amazon (带上你的 Amazon Associate 链接)。
+如果是独立站品牌（如 Shein），申请他们的联盟计划。
+AdSense (后期):
+流量起来后（日 IP > 1000），在表格上方和下方挂 Google 广告。

@@ -1,0 +1,110 @@
+{
+  "brand": "Nike",
+  "brand_slug": "nike",
+  "category": "Women's Shoes",
+  "category_slug": "womens-shoes",
+  "gender": "Women",
+  "source_url": "https://www.nike.com/size-fit/womens-footwear",
+  "collected_date": "2025-12-29",
+  "notes": "Nike recommends measuring foot length and sizing up if between sizes.",
+  "size_chart": [
+    {
+      "us_women": "5",
+      "uk": "2.5",
+      "eu": "35.5",
+      "length_cm": "22"
+    },
+    {
+      "us_women": "5.5",
+      "uk": "3",
+      "eu": "36",
+      "length_cm": "22.5"
+    },
+    {
+      "us_women": "6",
+      "uk": "3.5",
+      "eu": "36.5",
+      "length_cm": "23"
+    },
+    {
+      "us_women": "6.5",
+      "uk": "4",
+      "eu": "37.5",
+      "length_cm": "23.5"
+    },
+    {
+      "us_women": "7",
+      "uk": "4.5",
+      "eu": "38",
+      "length_cm": "24"
+    },
+    {
+      "us_women": "7.5",
+      "uk": "5",
+      "eu": "38.5",
+      "length_cm": "24.5"
+    },
+    {
+      "us_women": "8",
+      "uk": "5.5",
+      "eu": "39",
+      "length_cm": "25"
+    },
+    {
+      "us_women": "8.5",
+      "uk": "6",
+      "eu": "40",
+      "length_cm": "25.5"
+    },
+    {
+      "us_women": "9",
+      "uk": "6.5",
+      "eu": "40.5",
+      "length_cm": "26"
+    },
+    {
+      "us_women": "9.5",
+      "uk": "7",
+      "eu": "41",
+      "length_cm": "26.5"
+    },
+    {
+      "us_women": "10",
+      "uk": "7.5",
+      "eu": "42",
+      "length_cm": "27"
+    },
+    {
+      "us_women": "10.5",
+      "uk": "8",
+      "eu": "42.5",
+      "length_cm": "27.5"
+    },
+    {
+      "us_women": "11",
+      "uk": "8.5",
+      "eu": "43",
+      "length_cm": "28"
+    },
+    {
+      "us_women": "11.5",
+      "uk": "9",
+      "eu": "44",
+      "length_cm": "28.5"
+    },
+    {
+      "us_women": "12",
+      "uk": "9.5",
+      "eu": "44.5",
+      "length_cm": "29"
+    }
+  ],
+  "fit_notes": "If your measurement falls between two sizes, Nike recommends sizing up for a more comfortable fit.",
+  "measurement_guide": {
+    "how_to_measure": "Place a piece of paper on a hard, flat surface and stand on it with your weight evenly balanced. Have someone mark the tip of your big toe and the outermost part of your heel. Measure the distance between these two points to get your foot length.",
+    "tips": [
+      "Measure both feet and use the larger measurement",
+      "Wear the socks you would normally wear with the shoes when measuring"
+    ]
+  }
+}

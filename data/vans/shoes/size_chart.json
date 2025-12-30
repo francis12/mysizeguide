@@ -1,0 +1,174 @@
+{
+    "brand": "Vans",
+    "brand_slug": "vans",
+    "category": "Shoes",
+    "category_slug": "shoes",
+    "gender": "Unisex",
+    "source_url": "https://www.vans.com/help/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Vans uses unisex sizing. Women typically need to go down 1.5 sizes from their regular women's shoe size. For example, a women's US 8 would be a unisex/men's US 6.5.",
+    "size_chart": [
+        {
+            "us_men": "3.5",
+            "us_women": "5",
+            "uk": "2.5",
+            "eu": "34.5",
+            "length_cm": "21.5"
+        },
+        {
+            "us_men": "4",
+            "us_women": "5.5",
+            "uk": "3",
+            "eu": "35",
+            "length_cm": "22"
+        },
+        {
+            "us_men": "4.5",
+            "us_women": "6",
+            "uk": "3.5",
+            "eu": "36",
+            "length_cm": "22.5"
+        },
+        {
+            "us_men": "5",
+            "us_women": "6.5",
+            "uk": "4",
+            "eu": "36.5",
+            "length_cm": "23"
+        },
+        {
+            "us_men": "5.5",
+            "us_women": "7",
+            "uk": "4.5",
+            "eu": "37",
+            "length_cm": "23.5"
+        },
+        {
+            "us_men": "6",
+            "us_women": "7.5",
+            "uk": "5",
+            "eu": "38",
+            "length_cm": "24"
+        },
+        {
+            "us_men": "6.5",
+            "us_women": "8",
+            "uk": "5.5",
+            "eu": "38.5",
+            "length_cm": "24.5"
+        },
+        {
+            "us_men": "7",
+            "us_women": "8.5",
+            "uk": "6",
+            "eu": "39",
+            "length_cm": "25"
+        },
+        {
+            "us_men": "7.5",
+            "us_women": "9",
+            "uk": "6.5",
+            "eu": "40",
+            "length_cm": "25.5"
+        },
+        {
+            "us_men": "8",
+            "us_women": "9.5",
+            "uk": "7",
+            "eu": "40.5",
+            "length_cm": "26"
+        },
+        {
+            "us_men": "8.5",
+            "us_women": "10",
+            "uk": "7.5",
+            "eu": "41",
+            "length_cm": "26.5"
+        },
+        {
+            "us_men": "9",
+            "us_women": "10.5",
+            "uk": "8",
+            "eu": "42",
+            "length_cm": "27"
+        },
+        {
+            "us_men": "9.5",
+            "us_women": "11",
+            "uk": "8.5",
+            "eu": "42.5",
+            "length_cm": "27.5"
+        },
+        {
+            "us_men": "10",
+            "us_women": "11.5",
+            "uk": "9",
+            "eu": "43",
+            "length_cm": "28"
+        },
+        {
+            "us_men": "10.5",
+            "us_women": "12",
+            "uk": "9.5",
+            "eu": "44",
+            "length_cm": "28.5"
+        },
+        {
+            "us_men": "11",
+            "us_women": "12.5",
+            "uk": "10",
+            "eu": "44.5",
+            "length_cm": "29"
+        },
+        {
+            "us_men": "11.5",
+            "us_women": "13",
+            "uk": "10.5",
+            "eu": "45",
+            "length_cm": "29.5"
+        },
+        {
+            "us_men": "12",
+            "us_women": "-",
+            "uk": "11",
+            "eu": "46",
+            "length_cm": "30"
+        },
+        {
+            "us_men": "13",
+            "us_women": "-",
+            "uk": "12",
+            "eu": "47",
+            "length_cm": "31"
+        },
+        {
+            "us_men": "14",
+            "us_women": "-",
+            "uk": "13",
+            "eu": "48",
+            "length_cm": "32"
+        },
+        {
+            "us_men": "15",
+            "us_women": "-",
+            "uk": "14",
+            "eu": "49",
+            "length_cm": "33"
+        },
+        {
+            "us_men": "16",
+            "us_women": "-",
+            "uk": "15",
+            "eu": "50",
+            "length_cm": "34"
+        }
+    ],
+    "fit_notes": "Vans sneakers generally fit true to size. Old Skool and Sk8-Hi models might require going up half a size. Slip-Ons might feel slightly tight initially at the elasticized straps but stretch with wear.",
+    "measurement_guide": {
+        "how_to_measure": "Measure your foot length in centimeters from the wall to the tip of your longest toe.",
+        "tips": [
+            "If your foot length falls between sizes, round up by adding 5-6 mm to find the nearest size",
+            "Measure feet at the end of the day for most accurate results"
+        ]
+    }
+}

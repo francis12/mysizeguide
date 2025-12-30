@@ -1,0 +1,185 @@
+{
+    "brand": "Converse",
+    "category": "Chuck Sneakers",
+    "gender": "Unisex",
+    "source": "https://www.converse.com/size-chart-guide",
+    "collected_date": "2025-12-21",
+    "notes": "Applies to Chuck Taylor All Star and Chuck 70. These run large! Men's and Women's sizes differ by exactly 2 sizes (e.g. Men's 3 = Women's 5)",
+    "size_chart": [
+        {
+            "us_men": "3",
+            "us_women": "5",
+            "uk": "3",
+            "eu": "35",
+            "length_cm": "22"
+        },
+        {
+            "us_men": "3.5",
+            "us_women": "5.5",
+            "uk": "3.5",
+            "eu": "35.5",
+            "length_cm": "22.5"
+        },
+        {
+            "us_men": "4",
+            "us_women": "6",
+            "uk": "4",
+            "eu": "36",
+            "length_cm": "23"
+        },
+        {
+            "us_men": "4.5",
+            "us_women": "6.5",
+            "uk": "4.5",
+            "eu": "36.5",
+            "length_cm": "23.5"
+        },
+        {
+            "us_men": "5",
+            "us_women": "7",
+            "uk": "5",
+            "eu": "37.5",
+            "length_cm": "23.5"
+        },
+        {
+            "us_men": "5.5",
+            "us_women": "7.5",
+            "uk": "5.5",
+            "eu": "38",
+            "length_cm": "24"
+        },
+        {
+            "us_men": "6",
+            "us_women": "8",
+            "uk": "6",
+            "eu": "39",
+            "length_cm": "24.5"
+        },
+        {
+            "us_men": "6.5",
+            "us_women": "8.5",
+            "uk": "6.5",
+            "eu": "39.5",
+            "length_cm": "25"
+        },
+        {
+            "us_men": "7",
+            "us_women": "9",
+            "uk": "7",
+            "eu": "40",
+            "length_cm": "25"
+        },
+        {
+            "us_men": "7.5",
+            "us_women": "9.5",
+            "uk": "7.5",
+            "eu": "41",
+            "length_cm": "25.5"
+        },
+        {
+            "us_men": "8",
+            "us_women": "10",
+            "uk": "8",
+            "eu": "41.5",
+            "length_cm": "26"
+        },
+        {
+            "us_men": "8.5",
+            "us_women": "10.5",
+            "uk": "8.5",
+            "eu": "42",
+            "length_cm": "26.5"
+        },
+        {
+            "us_men": "9",
+            "us_women": "11",
+            "uk": "9",
+            "eu": "42.5",
+            "length_cm": "26.5"
+        },
+        {
+            "us_men": "9.5",
+            "us_women": "11.5",
+            "uk": "9.5",
+            "eu": "43",
+            "length_cm": "27"
+        },
+        {
+            "us_men": "10",
+            "us_women": "12",
+            "uk": "10",
+            "eu": "44",
+            "length_cm": "27.5"
+        },
+        {
+            "us_men": "10.5",
+            "us_women": "12.5",
+            "uk": "10.5",
+            "eu": "44.5",
+            "length_cm": "28"
+        },
+        {
+            "us_men": "11",
+            "us_women": "13",
+            "uk": "11",
+            "eu": "45",
+            "length_cm": "28.5"
+        },
+        {
+            "us_men": "11.5",
+            "us_women": "13.5",
+            "uk": "11.5",
+            "eu": "46",
+            "length_cm": "29"
+        },
+        {
+            "us_men": "12",
+            "us_women": "14",
+            "uk": "12",
+            "eu": "46.5",
+            "length_cm": "29"
+        },
+        {
+            "us_men": "13",
+            "us_women": "15",
+            "uk": "13",
+            "eu": "48",
+            "length_cm": "30"
+        },
+        {
+            "us_men": "14",
+            "us_women": "16",
+            "uk": "14",
+            "eu": "49",
+            "length_cm": "31"
+        },
+        {
+            "us_men": "15",
+            "us_women": "17",
+            "uk": "15",
+            "eu": "50",
+            "length_cm": "31.5"
+        },
+        {
+            "us_men": "16",
+            "us_women": "18",
+            "uk": "16",
+            "eu": "51.5",
+            "length_cm": "32.5"
+        },
+        {
+            "us_men": "17",
+            "us_women": "19",
+            "uk": "17",
+            "eu": "53",
+            "length_cm": "33"
+        },
+        {
+            "us_men": "18",
+            "us_women": "20",
+            "uk": "18",
+            "eu": "54",
+            "length_cm": "34"
+        }
+    ]
+}

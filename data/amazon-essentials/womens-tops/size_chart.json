@@ -1,0 +1,96 @@
+{
+    "brand": "Amazon Essentials",
+    "brand_slug": "amazon-essentials",
+    "category": "Women's Tops",
+    "category_slug": "womens-tops",
+    "gender": "Women",
+    "source_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GHVXZJ2XQ6WC7S79",
+    "collected_date": "2025-12-29",
+    "notes": "Amazon Essentials sizing follows Amazon's general women's apparel size chart. Sizes can vary between manufacturers, so always check product-specific size charts.",
+    "unit_system": [
+        "INCH",
+        "CM"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "US Size",
+            "Bust (in)",
+            "Bust (cm)",
+            "Waist (in)",
+            "Waist (cm)",
+            "Hips (in)",
+            "Hips (cm)"
+        ],
+        "rows": [
+            {
+                "Size": "XS",
+                "US": "0-2",
+                "Bust_IN": "32-33",
+                "Bust_CM": "81-84",
+                "Waist_IN": "24-25",
+                "Waist_CM": "61-64",
+                "Hips_IN": "34.5-35.5",
+                "Hips_CM": "88-90"
+            },
+            {
+                "Size": "S",
+                "US": "4-6",
+                "Bust_IN": "34-35",
+                "Bust_CM": "86-89",
+                "Waist_IN": "26-27",
+                "Waist_CM": "66-69",
+                "Hips_IN": "36.5-37.5",
+                "Hips_CM": "93-95"
+            },
+            {
+                "Size": "M",
+                "US": "8-10",
+                "Bust_IN": "36-37",
+                "Bust_CM": "91-94",
+                "Waist_IN": "28-29",
+                "Waist_CM": "71-74",
+                "Hips_IN": "38.5-39.5",
+                "Hips_CM": "98-100"
+            },
+            {
+                "Size": "L",
+                "US": "12-14",
+                "Bust_IN": "38.5-40",
+                "Bust_CM": "98-102",
+                "Waist_IN": "30.5-32",
+                "Waist_CM": "77-81",
+                "Hips_IN": "41-42.5",
+                "Hips_CM": "104-108"
+            },
+            {
+                "Size": "XL",
+                "US": "16",
+                "Bust_IN": "41.5-43",
+                "Bust_CM": "105-109",
+                "Waist_IN": "33.5-35",
+                "Waist_CM": "85-89",
+                "Hips_IN": "44-45.5",
+                "Hips_CM": "112-116"
+            },
+            {
+                "Size": "XXL",
+                "US": "18-20",
+                "Bust_IN": "44.5-46",
+                "Bust_CM": "113-117",
+                "Waist_IN": "36.5-38",
+                "Waist_CM": "93-97",
+                "Hips_IN": "47-48.5",
+                "Hips_CM": "119-123"
+            }
+        ]
+    },
+    "fit_notes": "Amazon Essentials offers affordable basics. Sizing tends to run true to size but may vary slightly between products. Check individual product reviews for fit feedback.",
+    "measurement_guide": {
+        "how_to_measure": "Bust: Measure around the fullest part of your bust.\nWaist: Measure at the narrowest point of your waist.\nHips: Measure around the fullest part of your hips.",
+        "tips": [
+            "Check product-specific size charts when available",
+            "Read customer reviews for fit feedback"
+        ]
+    }
+}

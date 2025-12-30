@@ -1,0 +1,75 @@
+{
+    "brand": "The North Face",
+    "brand_slug": "the-north-face",
+    "category": "Women's Outerwear",
+    "category_slug": "womens-outerwear",
+    "gender": "Women",
+    "source_url": "https://www.thenorthface.com/help/size-charts.html",
+    "collected_date": "2025-12-29",
+    "notes": "Outerwear sizing follows the same measurements as tops. Consider sizing up for layering underneath jackets.",
+    "unit_system": [
+        "CM",
+        "INCH"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "Chest (cm)",
+            "Chest (in)",
+            "Waist (cm)",
+            "Waist (in)"
+        ],
+        "rows": [
+            {
+                "Size": "XS",
+                "Chest_CM": "78-81",
+                "Chest_IN": "31-32",
+                "Waist_CM": "61-64",
+                "Waist_IN": "24-25"
+            },
+            {
+                "Size": "S",
+                "Chest_CM": "84-89",
+                "Chest_IN": "33-35",
+                "Waist_CM": "66-71",
+                "Waist_IN": "26-28"
+            },
+            {
+                "Size": "M",
+                "Chest_CM": "91-94",
+                "Chest_IN": "36-38",
+                "Waist_CM": "74-76",
+                "Waist_IN": "29-31"
+            },
+            {
+                "Size": "L",
+                "Chest_CM": "99-102",
+                "Chest_IN": "39-41",
+                "Waist_CM": "81-84",
+                "Waist_IN": "32-34"
+            },
+            {
+                "Size": "XL",
+                "Chest_CM": "107-112",
+                "Chest_IN": "42-44",
+                "Waist_CM": "89-94",
+                "Waist_IN": "35-38"
+            },
+            {
+                "Size": "2XL",
+                "Chest_CM": "117-119",
+                "Chest_IN": "45-48",
+                "Waist_CM": "99-102",
+                "Waist_IN": "39-42"
+            }
+        ]
+    },
+    "fit_notes": "For layering base layers and mid-layers underneath jackets, consider sizing up. The North Face offers different fits depending on style and intended activity.",
+    "measurement_guide": {
+        "how_to_measure": "Chest: Wear a bra and measure around the fullest part of your bust.\nWaist: Measure at the narrowest point of your natural waist.",
+        "tips": [
+            "If you plan to layer fleece or down underneath, size up",
+            "Check product descriptions for specific fit information"
+        ]
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "brand": "Adidas",
+    "brand_slug": "adidas",
+    "category": "Women's Bottoms",
+    "category_slug": "womens-bottoms",
+    "gender": "Women",
+    "source_url": "https://www.adidas.com/us/help/size-charts",
+    "collected_date": "2025-12-29",
+    "notes": "Measurements are body measurements. Petite sizes for women up to 165cm (5'5\"), Tall sizes for women over 179cm (5'10\").",
+    "unit_system": [
+        "CM"
+    ],
+    "size_chart": {
+        "standard": {
+            "headers": [
+                "Size",
+                "EU Size",
+                "Waist (cm)",
+                "Hip (cm)"
+            ],
+            "rows": [
+                {
+                    "Size": "2XS",
+                    "EU": "26-28",
+                    "Waist_CM": "57-60",
+                    "Hip_CM": "82-85"
+                },
+                {
+                    "Size": "XS",
+                    "EU": "30-32",
+                    "Waist_CM": "61-66",
+                    "Hip_CM": "86-91"
+                },
+                {
+                    "Size": "S",
+                    "EU": "34-36",
+                    "Waist_CM": "67-72",
+                    "Hip_CM": "92-97"
+                },
+                {
+                    "Size": "M",
+                    "EU": "38-40",
+                    "Waist_CM": "73-78",
+                    "Hip_CM": "98-103"
+                },
+                {
+                    "Size": "L",
+                    "EU": "42-44",
+                    "Waist_CM": "79-85",
+                    "Hip_CM": "104-110"
+                },
+                {
+                    "Size": "XL",
+                    "EU": "46-48",
+                    "Waist_CM": "86-94",
+                    "Hip_CM": "111-117"
+                },
+                {
+                    "Size": "XXL",
+                    "EU": "50-52",
+                    "Waist_CM": "95-104",
+                    "Hip_CM": "118-125"
+                }
+            ]
+        },
+        "length_options": {
+            "notes": "Length options available",
+            "rows": [
+                {
+                    "Length": "Petite",
+                    "Height": "Up to 165 cm (5'5\")"
+                },
+                {
+                    "Length": "Regular",
+                    "Height": "165-179 cm (5'5\" - 5'10\")"
+                },
+                {
+                    "Length": "Tall",
+                    "Height": "Over 179 cm (5'10\")"
+                }
+            ]
+        }
+    },
+    "fit_notes": "If hip and waist measurements suggest different sizes, choose the size indicated by your hip measurement.",
+    "measurement_guide": {
+        "how_to_measure": "Waist: Measure around the narrowest part of your waist.\nHip: Measure around the widest part of your hips, keeping feet together.",
+        "tips": [
+            "Petite sizing has shorter inseam and proportions",
+            "Tall sizing has longer inseam and extended proportions"
+        ]
+    }
+}

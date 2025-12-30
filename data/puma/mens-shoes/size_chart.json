@@ -1,0 +1,128 @@
+{
+    "brand": "Puma",
+    "brand_slug": "puma",
+    "category": "Men's Shoes",
+    "category_slug": "mens-shoes",
+    "gender": "Men",
+    "source_url": "https://www.puma.com/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Puma sizing is generally consistent with most other athletic footwear brands. CM measurement is also known as Mondopoint or JPN size.",
+    "size_chart": [
+        {
+            "us_men": "6",
+            "uk": "5",
+            "eu": "38",
+            "length_cm": "24"
+        },
+        {
+            "us_men": "6.5",
+            "uk": "5.5",
+            "eu": "38.5",
+            "length_cm": "24.5"
+        },
+        {
+            "us_men": "7",
+            "uk": "6",
+            "eu": "39",
+            "length_cm": "25"
+        },
+        {
+            "us_men": "7.5",
+            "uk": "6.5",
+            "eu": "40",
+            "length_cm": "25.5"
+        },
+        {
+            "us_men": "8",
+            "uk": "7",
+            "eu": "40.5",
+            "length_cm": "26"
+        },
+        {
+            "us_men": "8.5",
+            "uk": "7.5",
+            "eu": "41",
+            "length_cm": "26.5"
+        },
+        {
+            "us_men": "9",
+            "uk": "8",
+            "eu": "42",
+            "length_cm": "27"
+        },
+        {
+            "us_men": "9.5",
+            "uk": "8.5",
+            "eu": "42.5",
+            "length_cm": "27.5"
+        },
+        {
+            "us_men": "10",
+            "uk": "9",
+            "eu": "43",
+            "length_cm": "28"
+        },
+        {
+            "us_men": "10.5",
+            "uk": "9.5",
+            "eu": "44",
+            "length_cm": "28.5"
+        },
+        {
+            "us_men": "11",
+            "uk": "10",
+            "eu": "44.5",
+            "length_cm": "29"
+        },
+        {
+            "us_men": "11.5",
+            "uk": "10.5",
+            "eu": "45",
+            "length_cm": "29.5"
+        },
+        {
+            "us_men": "12",
+            "uk": "11",
+            "eu": "46",
+            "length_cm": "30"
+        },
+        {
+            "us_men": "12.5",
+            "uk": "11.5",
+            "eu": "46.5",
+            "length_cm": "30.5"
+        },
+        {
+            "us_men": "13",
+            "uk": "12",
+            "eu": "47",
+            "length_cm": "31"
+        },
+        {
+            "us_men": "14",
+            "uk": "13",
+            "eu": "48.5",
+            "length_cm": "32"
+        },
+        {
+            "us_men": "15",
+            "uk": "14",
+            "eu": "49.5",
+            "length_cm": "32.8"
+        },
+        {
+            "us_men": "16",
+            "uk": "15",
+            "eu": "51",
+            "length_cm": "33.5"
+        }
+    ],
+    "fit_notes": "Puma recommends measuring your foot length before ordering. Add 5-6 mm to your longer foot's measurement to round to the nearest size.",
+    "measurement_guide": {
+        "how_to_measure": "Stand on a piece of paper with your heel against a wall. Mark the tip of your longest toe and measure from the wall to the mark.",
+        "tips": [
+            "Measure both feet as sizes may differ",
+            "Use the larger measurement when selecting your size"
+        ]
+    }
+}

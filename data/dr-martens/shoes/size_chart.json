@@ -1,0 +1,126 @@
+{
+    "brand": "Dr. Martens",
+    "brand_slug": "dr-martens",
+    "category": "Shoes",
+    "category_slug": "shoes",
+    "gender": "Unisex",
+    "source_url": "https://www.drmartens.com/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Dr. Martens primarily uses UK sizing. Most styles only come in whole sizes. Leather styles will stretch in width but not in length. Men's/unisex styles tend to have a wider, more rounded fit, while women's silhouettes are often slimmer and more tapered.",
+    "size_chart": [
+        {
+            "uk": "3",
+            "eu": "36",
+            "us_women": "5",
+            "us_men": "4",
+            "length_cm": "22"
+        },
+        {
+            "uk": "4",
+            "eu": "37",
+            "us_women": "6",
+            "us_men": "5",
+            "length_cm": "23"
+        },
+        {
+            "uk": "5",
+            "eu": "38",
+            "us_women": "7",
+            "us_men": "6",
+            "length_cm": "23.5"
+        },
+        {
+            "uk": "6",
+            "eu": "39",
+            "us_women": "8",
+            "us_men": "7",
+            "length_cm": "24.5"
+        },
+        {
+            "uk": "6.5",
+            "eu": "40",
+            "us_women": "8.5",
+            "us_men": "7.5",
+            "length_cm": "25"
+        },
+        {
+            "uk": "7",
+            "eu": "41",
+            "us_women": "9",
+            "us_men": "8",
+            "length_cm": "25.5"
+        },
+        {
+            "uk": "8",
+            "eu": "42",
+            "us_women": "10",
+            "us_men": "9",
+            "length_cm": "26"
+        },
+        {
+            "uk": "9",
+            "eu": "43",
+            "us_women": "11",
+            "us_men": "10",
+            "length_cm": "27"
+        },
+        {
+            "uk": "9.5",
+            "eu": "44",
+            "us_women": "-",
+            "us_men": "10.5",
+            "length_cm": "27.5"
+        },
+        {
+            "uk": "10",
+            "eu": "45",
+            "us_women": "-",
+            "us_men": "11",
+            "length_cm": "28"
+        },
+        {
+            "uk": "11",
+            "eu": "46",
+            "us_women": "-",
+            "us_men": "12",
+            "length_cm": "29"
+        },
+        {
+            "uk": "12",
+            "eu": "47",
+            "us_women": "-",
+            "us_men": "13",
+            "length_cm": "30"
+        },
+        {
+            "uk": "13",
+            "eu": "48",
+            "us_women": "-",
+            "us_men": "14",
+            "length_cm": "32"
+        },
+        {
+            "uk": "14",
+            "eu": "49",
+            "us_women": "-",
+            "us_men": "15",
+            "length_cm": "33"
+        },
+        {
+            "uk": "15",
+            "eu": "50",
+            "us_women": "-",
+            "us_men": "16",
+            "length_cm": "34"
+        }
+    ],
+    "fit_notes": "If between sizes, choose the smaller size for leather styles as they stretch in width over time. For non-leather styles or if you prefer a relaxed fit, size up. A slim insole can help adjust the fit if needed. Original styles like the 1460 boot may have a slightly wider build. Sandals generally run larger than boots.",
+    "measurement_guide": {
+        "how_to_measure": "Stand with your heel against a wall and measure from the wall to the tip of your longest toe in centimeters.",
+        "tips": [
+            "Dr. Martens will stretch in width but not in length",
+            "Initial tightness on the instep should ease with wear",
+            "Ensure your toes have enough space to move comfortably"
+        ]
+    }
+}

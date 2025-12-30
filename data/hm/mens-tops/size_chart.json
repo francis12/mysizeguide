@@ -1,0 +1,102 @@
+{
+    "brand": "H&M",
+    "brand_slug": "hm",
+    "category": "Men's Tops",
+    "category_slug": "mens-tops",
+    "gender": "Men",
+    "source_url": "https://www2.hm.com/en_us/customer-service/size-guide/men.html",
+    "collected_date": "2025-12-29",
+    "notes": "H&M sizing includes EUR and US sizes. Measurements should be taken directly on the body. Same-size garments may vary depending on the fit.",
+    "unit_system": [
+        "CM"
+    ],
+    "size_chart": {
+        "headers": [
+            "EUR Size",
+            "US Size",
+            "Chest (cm)",
+            "Waist (cm)"
+        ],
+        "rows": [
+            {
+                "EUR": "40",
+                "US": "30R",
+                "Chest_CM": "78-82",
+                "Waist_CM": "66-70"
+            },
+            {
+                "EUR": "42",
+                "US": "32R",
+                "Chest_CM": "82-86",
+                "Waist_CM": "70-74"
+            },
+            {
+                "EUR": "44",
+                "US": "34R",
+                "Chest_CM": "86-90",
+                "Waist_CM": "74-78"
+            },
+            {
+                "EUR": "46",
+                "US": "36R",
+                "Chest_CM": "90-94",
+                "Waist_CM": "78-82"
+            },
+            {
+                "EUR": "48",
+                "US": "38R",
+                "Chest_CM": "94-98",
+                "Waist_CM": "82-86"
+            },
+            {
+                "EUR": "50",
+                "US": "40R",
+                "Chest_CM": "98-102",
+                "Waist_CM": "86-90"
+            },
+            {
+                "EUR": "52",
+                "US": "42R",
+                "Chest_CM": "102-106",
+                "Waist_CM": "90-94"
+            },
+            {
+                "EUR": "54",
+                "US": "44R",
+                "Chest_CM": "106-110",
+                "Waist_CM": "94-98.5"
+            },
+            {
+                "EUR": "56",
+                "US": "46R",
+                "Chest_CM": "110-114",
+                "Waist_CM": "98.5-103"
+            },
+            {
+                "EUR": "58",
+                "US": "48R",
+                "Chest_CM": "114-118",
+                "Waist_CM": "103-107.5"
+            },
+            {
+                "EUR": "60",
+                "US": "50R",
+                "Chest_CM": "118-122",
+                "Waist_CM": "107.5-112"
+            },
+            {
+                "EUR": "62",
+                "US": "52R",
+                "Chest_CM": "122-126",
+                "Waist_CM": "112-116.5"
+            }
+        ]
+    },
+    "fit_notes": "H&M offers Regular (R), Slim, and Relaxed fits. Same size may feel different across different fits.",
+    "measurement_guide": {
+        "how_to_measure": "Chest: Measure over the fullest part of your chest.\nWaist: Measure your waist at the narrowest point.",
+        "tips": [
+            "For shirts, measure the collar of a well-fitting shirt from the middle of the button to the end of the buttonhole"
+        ]
+    }
+}

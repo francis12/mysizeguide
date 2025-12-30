@@ -1,0 +1,71 @@
+{
+    "brand": "Uniqlo",
+    "brand_slug": "uniqlo",
+    "category": "Men's Tops",
+    "category_slug": "mens-tops",
+    "gender": "Men",
+    "source_url": "https://www.uniqlo.com/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Uniqlo sizing can sometimes run a little small. Individual product types may have slightly different measurements, so check the specific product page for most accurate information.",
+    "unit_system": [
+        "CM",
+        "INCH"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "Chest (cm)",
+            "Chest (in)"
+        ],
+        "rows": [
+            {
+                "Size": "XXS",
+                "Chest_CM": "81",
+                "Chest_IN": "32"
+            },
+            {
+                "Size": "XS",
+                "Chest_CM": "84",
+                "Chest_IN": "34"
+            },
+            {
+                "Size": "S",
+                "Chest_CM": "94",
+                "Chest_IN": "37"
+            },
+            {
+                "Size": "M",
+                "Chest_CM": "99",
+                "Chest_IN": "39"
+            },
+            {
+                "Size": "L",
+                "Chest_CM": "108",
+                "Chest_IN": "42"
+            },
+            {
+                "Size": "XL",
+                "Chest_CM": "116",
+                "Chest_IN": "45"
+            },
+            {
+                "Size": "XXL",
+                "Chest_CM": "124",
+                "Chest_IN": "48"
+            },
+            {
+                "Size": "3XL",
+                "Chest_CM": "132",
+                "Chest_IN": "51"
+            }
+        ]
+    },
+    "fit_notes": "Uniqlo advises customers to measure their body and compare it to the size chart on each product page, as sizes can vary slightly depending on the item and its intended silhouette. If you prefer a more relaxed fit, consider going up a size.",
+    "measurement_guide": {
+        "how_to_measure": "Chest: Measure around the fullest part of your chest, keeping the tape horizontal.",
+        "tips": [
+            "Sizes may vary between different product lines",
+            "Check individual product pages for specific measurements"
+        ]
+    }
+}

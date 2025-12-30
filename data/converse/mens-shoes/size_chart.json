@@ -1,0 +1,140 @@
+{
+    "brand": "Converse",
+    "brand_slug": "converse",
+    "category": "Men's Shoes",
+    "category_slug": "mens-shoes",
+    "gender": "Men",
+    "source_url": "https://www.converse.com/size-chart-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Converse uses unisex sizing. This chart shows Men's US sizes. For full unisex chart, see standard-sneakers or chuck-sneakers.",
+    "size_chart": [
+        {
+            "us_men": "3",
+            "uk": "3",
+            "eu": "35",
+            "length_cm": "22"
+        },
+        {
+            "us_men": "3.5",
+            "uk": "3.5",
+            "eu": "35.5",
+            "length_cm": "22.5"
+        },
+        {
+            "us_men": "4",
+            "uk": "4",
+            "eu": "36",
+            "length_cm": "23"
+        },
+        {
+            "us_men": "4.5",
+            "uk": "4.5",
+            "eu": "36.5",
+            "length_cm": "23.5"
+        },
+        {
+            "us_men": "5",
+            "uk": "5",
+            "eu": "37.5",
+            "length_cm": "23.5"
+        },
+        {
+            "us_men": "5.5",
+            "uk": "5.5",
+            "eu": "38",
+            "length_cm": "24"
+        },
+        {
+            "us_men": "6",
+            "uk": "6",
+            "eu": "39",
+            "length_cm": "24.5"
+        },
+        {
+            "us_men": "6.5",
+            "uk": "6.5",
+            "eu": "39.5",
+            "length_cm": "25"
+        },
+        {
+            "us_men": "7",
+            "uk": "7",
+            "eu": "40",
+            "length_cm": "25"
+        },
+        {
+            "us_men": "7.5",
+            "uk": "7.5",
+            "eu": "41",
+            "length_cm": "25.5"
+        },
+        {
+            "us_men": "8",
+            "uk": "8",
+            "eu": "41.5",
+            "length_cm": "26"
+        },
+        {
+            "us_men": "8.5",
+            "uk": "8.5",
+            "eu": "42",
+            "length_cm": "26.5"
+        },
+        {
+            "us_men": "9",
+            "uk": "9",
+            "eu": "42.5",
+            "length_cm": "26.5"
+        },
+        {
+            "us_men": "9.5",
+            "uk": "9.5",
+            "eu": "43",
+            "length_cm": "27"
+        },
+        {
+            "us_men": "10",
+            "uk": "10",
+            "eu": "44",
+            "length_cm": "27.5"
+        },
+        {
+            "us_men": "10.5",
+            "uk": "10.5",
+            "eu": "44.5",
+            "length_cm": "28"
+        },
+        {
+            "us_men": "11",
+            "uk": "11",
+            "eu": "45",
+            "length_cm": "28.5"
+        },
+        {
+            "us_men": "11.5",
+            "uk": "11.5",
+            "eu": "46",
+            "length_cm": "29"
+        },
+        {
+            "us_men": "12",
+            "uk": "12",
+            "eu": "46.5",
+            "length_cm": "29"
+        },
+        {
+            "us_men": "13",
+            "uk": "13",
+            "eu": "48",
+            "length_cm": "30"
+        }
+    ],
+    "fit_notes": "Converse Chuck Taylor All Stars typically run large by about half a size. Consider ordering half a size down from your usual size.",
+    "measurement_guide": {
+        "how_to_measure": "Stand on a piece of paper with your heel against a wall. Mark the tip of your longest toe and measure from the wall to the mark in centimeters.",
+        "tips": [
+            "Chuck Taylor All Stars run large - consider sizing down half a size",
+            "Standard sneakers (Jack Purcell, One Star) fit more true to size"
+        ]
+    }
+}

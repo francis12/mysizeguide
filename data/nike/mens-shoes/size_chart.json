@@ -1,0 +1,147 @@
+{
+    "brand": "Nike",
+    "brand_slug": "nike",
+    "category": "Men's Shoes",
+    "category_slug": "mens-shoes",
+    "gender": "Men",
+    "source_url": "https://www.nike.com/size-fit/mens-footwear",
+    "collected_date": "2025-12-29",
+    "notes": "Nike recommends sizing up if your measurement falls between sizes. The CM size on shoe boxes might differ slightly from actual foot length.",
+    "size_chart": [
+        {
+            "us_men": "6",
+            "uk": "5.5",
+            "eu": "38.5",
+            "length_cm": "23.7"
+        },
+        {
+            "us_men": "6.5",
+            "uk": "6",
+            "eu": "39",
+            "length_cm": "24.1"
+        },
+        {
+            "us_men": "7",
+            "uk": "6",
+            "eu": "40",
+            "length_cm": "24.5"
+        },
+        {
+            "us_men": "7.5",
+            "uk": "6.5",
+            "eu": "40.5",
+            "length_cm": "25"
+        },
+        {
+            "us_men": "8",
+            "uk": "7",
+            "eu": "41",
+            "length_cm": "25.4"
+        },
+        {
+            "us_men": "8.5",
+            "uk": "7.5",
+            "eu": "42",
+            "length_cm": "25.8"
+        },
+        {
+            "us_men": "9",
+            "uk": "8",
+            "eu": "42.5",
+            "length_cm": "26.2"
+        },
+        {
+            "us_men": "9.5",
+            "uk": "8.5",
+            "eu": "43",
+            "length_cm": "26.7"
+        },
+        {
+            "us_men": "10",
+            "uk": "9",
+            "eu": "44",
+            "length_cm": "27.1"
+        },
+        {
+            "us_men": "10.5",
+            "uk": "9.5",
+            "eu": "44.5",
+            "length_cm": "27.5"
+        },
+        {
+            "us_men": "11",
+            "uk": "10",
+            "eu": "45",
+            "length_cm": "27.9"
+        },
+        {
+            "us_men": "11.5",
+            "uk": "10.5",
+            "eu": "45.5",
+            "length_cm": "28.3"
+        },
+        {
+            "us_men": "12",
+            "uk": "11",
+            "eu": "46",
+            "length_cm": "28.8"
+        },
+        {
+            "us_men": "12.5",
+            "uk": "11.5",
+            "eu": "47",
+            "length_cm": "29.2"
+        },
+        {
+            "us_men": "13",
+            "uk": "12",
+            "eu": "47.5",
+            "length_cm": "29.6"
+        },
+        {
+            "us_men": "13.5",
+            "uk": "12.5",
+            "eu": "48",
+            "length_cm": "30"
+        },
+        {
+            "us_men": "14",
+            "uk": "13",
+            "eu": "48.5",
+            "length_cm": "30.5"
+        },
+        {
+            "us_men": "15",
+            "uk": "14",
+            "eu": "49.5",
+            "length_cm": "31.3"
+        },
+        {
+            "us_men": "16",
+            "uk": "15",
+            "eu": "50.5",
+            "length_cm": "32.2"
+        },
+        {
+            "us_men": "17",
+            "uk": "16",
+            "eu": "51.5",
+            "length_cm": "33"
+        },
+        {
+            "us_men": "18",
+            "uk": "17",
+            "eu": "52.5",
+            "length_cm": "33.9"
+        }
+    ],
+    "fit_notes": "If your measurement falls between two sizes, Nike recommends sizing up for a more comfortable fit. Different shoe styles may fit differently.",
+    "measurement_guide": {
+        "how_to_measure": "Place a piece of paper on a hard, flat surface. Stand on the paper with your weight evenly balanced. Have someone mark the tip of your big toe and the outermost part of your heel. Measure the distance between these two points.",
+        "tips": [
+            "Repeat for the other foot as one foot may be slightly longer",
+            "Use the longer measurement with the size chart",
+            "Measure at the end of the day when feet are slightly swollen"
+        ]
+    }
+}

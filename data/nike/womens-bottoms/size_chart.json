@@ -1,0 +1,124 @@
+{
+    "brand": "Nike",
+    "brand_slug": "nike",
+    "category": "Women's Bottoms",
+    "category_slug": "womens-bottoms",
+    "gender": "Women",
+    "source_url": "https://www.nike.com/size-fit/womens-bottoms",
+    "collected_date": "2025-12-29",
+    "notes": "Measurements are body measurements. Nike offers Short, Regular, and Tall length options for select styles.",
+    "unit_system": [
+        "CM"
+    ],
+    "size_chart": {
+        "standard": {
+            "headers": [
+                "Size",
+                "Waist (cm)",
+                "Hip (cm)"
+            ],
+            "rows": [
+                {
+                    "Size": "XXS",
+                    "Waist_CM": "54-60",
+                    "Hip_CM": "78-84"
+                },
+                {
+                    "Size": "XS",
+                    "Waist_CM": "60-67",
+                    "Hip_CM": "84-91"
+                },
+                {
+                    "Size": "S",
+                    "Waist_CM": "67-74",
+                    "Hip_CM": "91-98"
+                },
+                {
+                    "Size": "M",
+                    "Waist_CM": "74-81",
+                    "Hip_CM": "98-105"
+                },
+                {
+                    "Size": "L",
+                    "Waist_CM": "81-88",
+                    "Hip_CM": "105-112"
+                },
+                {
+                    "Size": "XL",
+                    "Waist_CM": "88-98",
+                    "Hip_CM": "112-120"
+                },
+                {
+                    "Size": "XXL",
+                    "Waist_CM": "98-108",
+                    "Hip_CM": "120-128"
+                }
+            ]
+        },
+        "plus": {
+            "headers": [
+                "Size",
+                "Waist (cm)",
+                "Hip (cm)"
+            ],
+            "rows": [
+                {
+                    "Size": "0X",
+                    "Waist_CM": "101.5-108.5",
+                    "Hip_CM": "122.5-129.5"
+                },
+                {
+                    "Size": "1X",
+                    "Waist_CM": "108.5-115.5",
+                    "Hip_CM": "129.5-136.5"
+                },
+                {
+                    "Size": "2X",
+                    "Waist_CM": "115.5-124",
+                    "Hip_CM": "136.5-145"
+                },
+                {
+                    "Size": "3X",
+                    "Waist_CM": "124-134",
+                    "Hip_CM": "145-155"
+                },
+                {
+                    "Size": "4X",
+                    "Waist_CM": "134-144",
+                    "Hip_CM": "155-165"
+                }
+            ]
+        },
+        "length_options": {
+            "notes": "Length options available for select styles",
+            "rows": [
+                {
+                    "Length": "Short",
+                    "Height_Range": "163 cm (5'4\") and under",
+                    "Inseam_Difference": "5 cm shorter",
+                    "Rise_Difference": "1 cm shorter"
+                },
+                {
+                    "Length": "Regular",
+                    "Height_Range": "163-173 cm (5'4\"-5'8\")",
+                    "Inseam_Difference": "Standard",
+                    "Rise_Difference": "Standard"
+                },
+                {
+                    "Length": "Tall",
+                    "Height_Range": "173-183 cm (5'8\"-6')",
+                    "Inseam_Difference": "5 cm longer",
+                    "Rise_Difference": "1-1.5 cm longer"
+                }
+            ]
+        }
+    },
+    "fit_notes": "If your measurements fall between two sizes, order smaller for a tighter fit or larger for a looser fit. If waist and hip suggest different sizes, choose the size indicated by your hip measurement.",
+    "measurement_guide": {
+        "how_to_measure": "Waist: Measure around the narrowest part of your waist (where your body bends side to side), keeping the tape horizontal.\nHips: Measure around the fullest part of your hips, keeping the tape horizontal.",
+        "tips": [
+            "Hip measurement is typically more important for bottoms sizing",
+            "Short and Tall length options available for select styles"
+        ]
+    }
+}

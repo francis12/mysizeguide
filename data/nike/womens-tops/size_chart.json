@@ -1,0 +1,91 @@
+{
+    "brand": "Nike",
+    "brand_slug": "nike",
+    "category": "Women's Tops",
+    "category_slug": "womens-tops",
+    "gender": "Women",
+    "source_url": "https://www.nike.com/size-fit/womens-tops",
+    "collected_date": "2025-12-29",
+    "notes": "Measurements are body measurements. Nike also offers Plus sizes (1X-3X) for extended sizing.",
+    "unit_system": [
+        "CM"
+    ],
+    "size_chart": {
+        "standard": {
+            "headers": [
+                "Size",
+                "Bust (cm)",
+                "Waist (cm)"
+            ],
+            "rows": [
+                {
+                    "Size": "XXS",
+                    "Bust_CM": "70-76",
+                    "Waist_CM": "54-60"
+                },
+                {
+                    "Size": "XS",
+                    "Bust_CM": "76-83",
+                    "Waist_CM": "60-67"
+                },
+                {
+                    "Size": "S",
+                    "Bust_CM": "83-90",
+                    "Waist_CM": "67-74"
+                },
+                {
+                    "Size": "M",
+                    "Bust_CM": "90-97",
+                    "Waist_CM": "74-81"
+                },
+                {
+                    "Size": "L",
+                    "Bust_CM": "97-104",
+                    "Waist_CM": "81-88"
+                },
+                {
+                    "Size": "XL",
+                    "Bust_CM": "104-114",
+                    "Waist_CM": "88-98"
+                },
+                {
+                    "Size": "XXL",
+                    "Bust_CM": "114-124",
+                    "Waist_CM": "98-108"
+                }
+            ]
+        },
+        "plus": {
+            "headers": [
+                "Size",
+                "Bust (cm)",
+                "Waist (cm)"
+            ],
+            "rows": [
+                {
+                    "Size": "1X",
+                    "Bust_CM": "114-124",
+                    "Waist_CM": "104-114"
+                },
+                {
+                    "Size": "2X",
+                    "Bust_CM": "124-134",
+                    "Waist_CM": "114-124"
+                },
+                {
+                    "Size": "3X",
+                    "Bust_CM": "134-144",
+                    "Waist_CM": "124-134"
+                }
+            ]
+        }
+    },
+    "fit_notes": "If your measurements fall between two sizes, order the smaller size for a tighter fit or the larger size for a looser fit. If your bust and waist measurements suggest different sizes, order the size indicated by your bust measurement.",
+    "measurement_guide": {
+        "how_to_measure": "Bust: Measure around the fullest part of your bust, keeping the measuring tape horizontal.\nWaist: Measure around the narrowest part of your waist (where your body bends side to side), keeping the tape horizontal.",
+        "tips": [
+            "Wear a well-fitting bra when measuring bust",
+            "Keep the tape snug but not too tight"
+        ]
+    }
+}

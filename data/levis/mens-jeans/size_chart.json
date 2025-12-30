@@ -1,0 +1,117 @@
+{
+    "brand": "Levi's",
+    "brand_slug": "levis",
+    "category": "Men's Jeans",
+    "category_slug": "mens-jeans",
+    "gender": "Men",
+    "source_url": "https://www.levi.com/US/en_US/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Levi's jeans use waist x inseam sizing (e.g., 32x30). Waist size is the circumference of the waistband. Inseam is the inner leg length. Some styles feature stretch denim for added comfort.",
+    "unit_system": [
+        "INCH",
+        "CM"
+    ],
+    "size_chart": {
+        "waist_sizes": {
+            "headers": [
+                "Waist Size",
+                "Actual Waist (in)",
+                "Actual Waist (cm)"
+            ],
+            "rows": [
+                {
+                    "Size": "28",
+                    "Waist_IN": "28.5-29",
+                    "Waist_CM": "72-74"
+                },
+                {
+                    "Size": "29",
+                    "Waist_IN": "29.5-30",
+                    "Waist_CM": "75-76"
+                },
+                {
+                    "Size": "30",
+                    "Waist_IN": "30.5-31",
+                    "Waist_CM": "77-79"
+                },
+                {
+                    "Size": "31",
+                    "Waist_IN": "31.5-32",
+                    "Waist_CM": "80-81"
+                },
+                {
+                    "Size": "32",
+                    "Waist_IN": "32.5-33",
+                    "Waist_CM": "83-84"
+                },
+                {
+                    "Size": "33",
+                    "Waist_IN": "33.5-34",
+                    "Waist_CM": "85-86"
+                },
+                {
+                    "Size": "34",
+                    "Waist_IN": "34.5-35",
+                    "Waist_CM": "88-89"
+                },
+                {
+                    "Size": "36",
+                    "Waist_IN": "36.5-37.5",
+                    "Waist_CM": "93-95"
+                },
+                {
+                    "Size": "38",
+                    "Waist_IN": "38.5-39.5",
+                    "Waist_CM": "98-100"
+                },
+                {
+                    "Size": "40",
+                    "Waist_IN": "40.5-41.5",
+                    "Waist_CM": "103-105"
+                },
+                {
+                    "Size": "42",
+                    "Waist_IN": "42.5-43.5",
+                    "Waist_CM": "108-110"
+                },
+                {
+                    "Size": "44",
+                    "Waist_IN": "44.5-45.5",
+                    "Waist_CM": "113-116"
+                }
+            ]
+        },
+        "inseam_lengths": {
+            "headers": [
+                "Inseam (in)",
+                "Height Range"
+            ],
+            "rows": [
+                {
+                    "Inseam": "30",
+                    "Height_Range": "5'6\" - 5'8\" (168-173 cm)"
+                },
+                {
+                    "Inseam": "32",
+                    "Height_Range": "5'8\" - 6'0\" (173-183 cm)"
+                },
+                {
+                    "Inseam": "34",
+                    "Height_Range": "6'0\" - 6'4\" (183-193 cm)"
+                },
+                {
+                    "Inseam": "36",
+                    "Height_Range": "6'4\" - 6'6\" (193-198 cm)"
+                }
+            ]
+        }
+    },
+    "fit_notes": "If between sizes, consider whether you prefer a snug or looser fit. Taller individuals may opt for a longer inseam, while shorter individuals might choose a shorter inseam.",
+    "measurement_guide": {
+        "how_to_measure": "Waist: Wrap a measuring tape around your natural waistline, typically just above your belly button. Keep the tape snug but not too tight.\nInseam: Measure from the top of your inner thigh down to the bottom of your ankle.\nSeat/Hips: Measure around the fullest part of your hips, ensuring the tape remains parallel to the floor.",
+        "tips": [
+            "Measure a pair of jeans that fit well for comparison",
+            "Allow for slight shrinkage after washing for non-stretch styles"
+        ]
+    }
+}

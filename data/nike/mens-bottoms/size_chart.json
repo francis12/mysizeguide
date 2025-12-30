@@ -1,0 +1,174 @@
+{
+    "brand": "Nike",
+    "brand_slug": "nike",
+    "category": "Men's Bottoms",
+    "category_slug": "mens-bottoms",
+    "source_url": "https://www.nike.com/size-fit/mens-bottoms",
+    "scraped_date": "2024-12-21",
+    "unit_system": [
+        "CM",
+        "INCH"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "Waist (cm)",
+            "Hip (cm)",
+            "Height (cm)",
+            "Waist (in)",
+            "Hip (in)",
+            "Height (in)"
+        ],
+        "rows": [
+            {
+                "Size": "XXS",
+                "Waist_CM": "57-65",
+                "Hip_CM": "72-80",
+                "Height_CM": "<170",
+                "Waist_IN": "22.5-25.5",
+                "Hip_IN": "28.5-31.5",
+                "Height_IN": "<5'7\""
+            },
+            {
+                "Size": "XS",
+                "Waist_CM": "65-73",
+                "Hip_CM": "80-88",
+                "Height_CM": "170-183",
+                "Waist_IN": "25.5-29",
+                "Hip_IN": "31.5-35",
+                "Height_IN": "5'7\"-6'0\""
+            },
+            {
+                "Size": "S",
+                "Waist_CM": "73-81",
+                "Hip_CM": "88-96",
+                "Height_CM": "170-183",
+                "Waist_IN": "29-32",
+                "Hip_IN": "35-37.5",
+                "Height_IN": "5'7\"-6'0\""
+            },
+            {
+                "Size": "S Tall",
+                "Waist_CM": "73-81",
+                "Hip_CM": "88-96",
+                "Height_CM": "183-196",
+                "Waist_IN": "29-32",
+                "Hip_IN": "35-37.5",
+                "Height_IN": "6'0\"-6'5\""
+            },
+            {
+                "Size": "M",
+                "Waist_CM": "81-89",
+                "Hip_CM": "96-104",
+                "Height_CM": "170-183",
+                "Waist_IN": "32-35",
+                "Hip_IN": "37.5-41",
+                "Height_IN": "5'7\"-6'0\""
+            },
+            {
+                "Size": "M Tall",
+                "Waist_CM": "81-89",
+                "Hip_CM": "96-104",
+                "Height_CM": "183-196",
+                "Waist_IN": "32-35",
+                "Hip_IN": "37.5-41",
+                "Height_IN": "6'0\"-6'5\""
+            },
+            {
+                "Size": "L",
+                "Waist_CM": "89-97",
+                "Hip_CM": "104-112",
+                "Height_CM": "170-183",
+                "Waist_IN": "35-38",
+                "Hip_IN": "41-44",
+                "Height_IN": "5'7\"-6'0\""
+            },
+            {
+                "Size": "L Tall",
+                "Waist_CM": "89-97",
+                "Hip_CM": "104-112",
+                "Height_CM": "183-196",
+                "Waist_IN": "35-38",
+                "Hip_IN": "41-44",
+                "Height_IN": "6'0\"-6'5\""
+            },
+            {
+                "Size": "XL",
+                "Waist_CM": "97-109",
+                "Hip_CM": "112-120",
+                "Height_CM": "170-183",
+                "Waist_IN": "38-43",
+                "Hip_IN": "44-47",
+                "Height_IN": "5'7\"-6'0\""
+            },
+            {
+                "Size": "XL Tall",
+                "Waist_CM": "97-109",
+                "Hip_CM": "112-120",
+                "Height_CM": "183-196",
+                "Waist_IN": "38-43",
+                "Hip_IN": "44-47",
+                "Height_IN": "6'0\"-6'5\""
+            },
+            {
+                "Size": "XXL",
+                "Waist_CM": "109-121",
+                "Hip_CM": "120-128",
+                "Height_CM": "170-183",
+                "Waist_IN": "43-47.5",
+                "Hip_IN": "47-50.5",
+                "Height_IN": "5'7\"-6'0\""
+            },
+            {
+                "Size": "XXL Tall",
+                "Waist_CM": "109-121",
+                "Hip_CM": "120-128",
+                "Height_CM": "183-196",
+                "Waist_IN": "43-47.5",
+                "Hip_IN": "47-50.5",
+                "Height_IN": "6'0\"-6'5\""
+            },
+            {
+                "Size": "3XL",
+                "Waist_CM": "121-133",
+                "Hip_CM": "128-136",
+                "Height_CM": "170-183",
+                "Waist_IN": "47.5-52.5",
+                "Hip_IN": "50.5-53.5",
+                "Height_IN": "5'7\"-6'0\""
+            },
+            {
+                "Size": "3XL Tall",
+                "Waist_CM": "121-133",
+                "Hip_CM": "128-136",
+                "Height_CM": "183-196",
+                "Waist_IN": "47.5-52.5",
+                "Hip_IN": "50.5-53.5",
+                "Height_IN": "6'0\"-6'5\""
+            },
+            {
+                "Size": "4XL",
+                "Waist_CM": "133-145",
+                "Hip_CM": "136-148",
+                "Height_CM": "170-183",
+                "Waist_IN": "52.5-57",
+                "Hip_IN": "53.5-58.5",
+                "Height_IN": "5'7\"-6'0\""
+            },
+            {
+                "Size": "4XL Tall",
+                "Waist_CM": "133-145",
+                "Hip_CM": "136-148",
+                "Height_CM": "183-196",
+                "Waist_IN": "52.5-57",
+                "Hip_IN": "53.5-58.5",
+                "Height_IN": "6'0\"-6'5\""
+            }
+        ]
+    },
+    "fit_notes": "Tall 下装尺码：内缝长 2英寸 (5cm)，裆部上升 0.5英寸 (1.5cm)。\nTall 尺码仅限特定款式。\n如果你的测量值介于两个尺码之间，建议：想要紧身选小一码，想要宽松选大一码。如果腰围和臀围对应不同尺码，以臀围为准。",
+    "measurement_guide": {
+        "how_to_measure": "腰围：测量腰部最细处。\n臀围：测量臀部最丰满处。\n内缝 (Inseam)：从裆部缝线测量到裤脚。",
+        "tips": []
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "brand": "Uniqlo",
+    "brand_slug": "uniqlo",
+    "category": "Women's Bottoms",
+    "category_slug": "womens-bottoms",
+    "gender": "Women",
+    "source_url": "https://www.uniqlo.com/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Uniqlo sizes may run a bit small. Accurate waist and inseam measurements are crucial for finding the right fit.",
+    "unit_system": [
+        "CM"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "US Size",
+            "UK Size",
+            "Waist (cm)",
+            "Hip Width (cm)",
+            "Inseam (cm)"
+        ],
+        "rows": [
+            {
+                "Size": "S",
+                "US": "6",
+                "UK": "34",
+                "Waist_CM": "66-69",
+                "Hip_Width_CM": "100",
+                "Inseam_CM": "66"
+            },
+            {
+                "Size": "M",
+                "US": "8",
+                "UK": "36",
+                "Waist_CM": "71-74",
+                "Hip_Width_CM": "105",
+                "Inseam_CM": "66"
+            },
+            {
+                "Size": "L",
+                "US": "10",
+                "UK": "38",
+                "Waist_CM": "76",
+                "Hip_Width_CM": "112",
+                "Inseam_CM": "67"
+            },
+            {
+                "Size": "XL",
+                "US": "12",
+                "UK": "40",
+                "Waist_CM": "81",
+                "Hip_Width_CM": "117",
+                "Inseam_CM": "69"
+            }
+        ]
+    },
+    "fit_notes": "Different pant styles (slim, regular, wide leg) will fit differently even in the same size. Check individual product pages for specific fit recommendations.",
+    "measurement_guide": {
+        "how_to_measure": "Waist: Measure at the narrowest point of your natural waist.\nHip: Measure around the fullest part of your hips.\nInseam: Measure from the crotch to the bottom of the leg.",
+        "tips": [
+            "Uniqlo offers cropped, regular, and long inseam options for some styles"
+        ]
+    }
+}

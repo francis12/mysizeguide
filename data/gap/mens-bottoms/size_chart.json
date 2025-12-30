@@ -1,0 +1,61 @@
+{
+    "brand": "Gap",
+    "brand_slug": "gap",
+    "category": "Men's Bottoms",
+    "category_slug": "mens-bottoms",
+    "gender": "Men",
+    "source_url": "https://www.gap.com/browse/sizeChart.do",
+    "collected_date": "2025-12-29",
+    "notes": "Gap sizing runs true to size. Measure your waist where your pants typically sit.",
+    "unit_system": [
+        "INCH",
+        "CM"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "Waist (in)",
+            "Waist (cm)"
+        ],
+        "rows": [
+            {
+                "Size": "XS",
+                "Waist_IN": "28-29",
+                "Waist_CM": "71-74"
+            },
+            {
+                "Size": "S",
+                "Waist_IN": "30-31",
+                "Waist_CM": "76-79"
+            },
+            {
+                "Size": "M",
+                "Waist_IN": "32-34",
+                "Waist_CM": "81-86"
+            },
+            {
+                "Size": "L",
+                "Waist_IN": "35-37",
+                "Waist_CM": "89-94"
+            },
+            {
+                "Size": "XL",
+                "Waist_IN": "38-41",
+                "Waist_CM": "97-104"
+            },
+            {
+                "Size": "XXL",
+                "Waist_IN": "42-45",
+                "Waist_CM": "107-114"
+            }
+        ]
+    },
+    "fit_notes": "Gap offers various fits including Slim, Straight, Athletic, and Relaxed. Different fits may feel differently even in the same size.",
+    "measurement_guide": {
+        "how_to_measure": "Waist: Measure around your waist where your pants typically sit, keeping one finger between the tape and your body.",
+        "tips": [
+            "Consider the fit type (Slim, Straight, Athletic, Relaxed) when ordering",
+            "Inseam lengths vary by fit and style"
+        ]
+    }
+}

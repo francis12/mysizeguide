@@ -1,0 +1,89 @@
+{
+    "brand": "Amazon Essentials",
+    "brand_slug": "amazon-essentials",
+    "category": "Men's Tops",
+    "category_slug": "mens-tops",
+    "gender": "Men",
+    "source_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GHVXZJ2XQ6WC7S79",
+    "collected_date": "2025-12-29",
+    "notes": "Amazon Essentials sizing follows Amazon's general men's apparel size chart. Always check product-specific size charts for the most accurate fit.",
+    "unit_system": [
+        "INCH",
+        "CM"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "Chest (in)",
+            "Chest (cm)",
+            "Neck (in)",
+            "Neck (cm)",
+            "Sleeve (in)",
+            "Sleeve (cm)"
+        ],
+        "rows": [
+            {
+                "Size": "XS",
+                "Chest_IN": "32-34",
+                "Chest_CM": "81-86",
+                "Neck_IN": "13-13.5",
+                "Neck_CM": "33-34",
+                "Sleeve_IN": "31-32",
+                "Sleeve_CM": "79-81"
+            },
+            {
+                "Size": "S",
+                "Chest_IN": "35-37",
+                "Chest_CM": "89-94",
+                "Neck_IN": "14-14.5",
+                "Neck_CM": "36-37",
+                "Sleeve_IN": "32-33",
+                "Sleeve_CM": "81-84"
+            },
+            {
+                "Size": "M",
+                "Chest_IN": "38-40",
+                "Chest_CM": "97-102",
+                "Neck_IN": "15-15.5",
+                "Neck_CM": "38-39",
+                "Sleeve_IN": "33-34",
+                "Sleeve_CM": "84-86"
+            },
+            {
+                "Size": "L",
+                "Chest_IN": "41-43",
+                "Chest_CM": "104-109",
+                "Neck_IN": "16-16.5",
+                "Neck_CM": "41-42",
+                "Sleeve_IN": "34-35",
+                "Sleeve_CM": "86-89"
+            },
+            {
+                "Size": "XL",
+                "Chest_IN": "44-46",
+                "Chest_CM": "112-117",
+                "Neck_IN": "17-17.5",
+                "Neck_CM": "43-44",
+                "Sleeve_IN": "35-35.5",
+                "Sleeve_CM": "89-90"
+            },
+            {
+                "Size": "XXL",
+                "Chest_IN": "47-49",
+                "Chest_CM": "119-124",
+                "Neck_IN": "18-18.5",
+                "Neck_CM": "46-47",
+                "Sleeve_IN": "35.5-36",
+                "Sleeve_CM": "90-91"
+            }
+        ]
+    },
+    "fit_notes": "Amazon Essentials offers affordable basics that generally run true to size. Different fits (Regular, Slim, Relaxed) are available.",
+    "measurement_guide": {
+        "how_to_measure": "Chest: Place tape measure loosely under your arms and around the fullest part of your chest.\nNeck: Measure around the base of your neck, allowing enough space for two fingers.\nSleeve: Measure from the middle of the back of your collar, over your shoulder, and down your arm to your wrist with a slightly bent elbow.",
+        "tips": [
+            "Check product-specific size charts for the most accurate fit",
+            "Consider the fit type (Regular, Slim, Relaxed) when ordering"
+        ]
+    }
+}

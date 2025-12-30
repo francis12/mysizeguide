@@ -1,0 +1,137 @@
+{
+    "brand": "Levi's",
+    "brand_slug": "levis",
+    "category": "Women's Jeans",
+    "category_slug": "womens-jeans",
+    "gender": "Women",
+    "source_url": "https://www.levi.com/US/en_US/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Levi's women's jeans use both waist size (in inches) and alpha sizes (S, M, L). Many styles feature stretch denim for added comfort.",
+    "unit_system": [
+        "INCH",
+        "CM"
+    ],
+    "size_chart": {
+        "waist_sizes": {
+            "headers": [
+                "Size",
+                "Waist Size",
+                "Waist (in)",
+                "Waist (cm)",
+                "Hips (in)",
+                "Hips (cm)"
+            ],
+            "rows": [
+                {
+                    "Size": "24",
+                    "Alpha": "XS",
+                    "Waist_IN": "23.5-24",
+                    "Waist_CM": "60-61",
+                    "Hips_IN": "34-34.5",
+                    "Hips_CM": "86-88"
+                },
+                {
+                    "Size": "25",
+                    "Alpha": "XS",
+                    "Waist_IN": "24.5-25",
+                    "Waist_CM": "62-64",
+                    "Hips_IN": "35-35.5",
+                    "Hips_CM": "89-90"
+                },
+                {
+                    "Size": "26",
+                    "Alpha": "S",
+                    "Waist_IN": "25.5-26",
+                    "Waist_CM": "65-66",
+                    "Hips_IN": "36-36.5",
+                    "Hips_CM": "91-93"
+                },
+                {
+                    "Size": "27",
+                    "Alpha": "S",
+                    "Waist_IN": "26.5-27",
+                    "Waist_CM": "67-69",
+                    "Hips_IN": "37-37.5",
+                    "Hips_CM": "94-95"
+                },
+                {
+                    "Size": "28",
+                    "Alpha": "M",
+                    "Waist_IN": "27.5-28",
+                    "Waist_CM": "70-71",
+                    "Hips_IN": "38-38.5",
+                    "Hips_CM": "97-98"
+                },
+                {
+                    "Size": "29",
+                    "Alpha": "M",
+                    "Waist_IN": "28.5-29",
+                    "Waist_CM": "72-74",
+                    "Hips_IN": "39-39.5",
+                    "Hips_CM": "99-100"
+                },
+                {
+                    "Size": "30",
+                    "Alpha": "L",
+                    "Waist_IN": "29.5-30",
+                    "Waist_CM": "75-76",
+                    "Hips_IN": "40-40.5",
+                    "Hips_CM": "102-103"
+                },
+                {
+                    "Size": "31",
+                    "Alpha": "L",
+                    "Waist_IN": "30.5-31",
+                    "Waist_CM": "77-79",
+                    "Hips_IN": "41-41.5",
+                    "Hips_CM": "104-105"
+                },
+                {
+                    "Size": "32",
+                    "Alpha": "XL",
+                    "Waist_IN": "31.5-32",
+                    "Waist_CM": "80-81",
+                    "Hips_IN": "42-42.5",
+                    "Hips_CM": "107-108"
+                }
+            ]
+        },
+        "inseam_lengths": {
+            "headers": [
+                "Length",
+                "Inseam (in)",
+                "Height Range"
+            ],
+            "rows": [
+                {
+                    "Length": "Short",
+                    "Inseam": "28",
+                    "Height_Range": "5'0\" - 5'4\" (152-163 cm)"
+                },
+                {
+                    "Length": "Regular",
+                    "Inseam": "30",
+                    "Height_Range": "5'4\" - 5'7\" (163-170 cm)"
+                },
+                {
+                    "Length": "Long",
+                    "Inseam": "32",
+                    "Height_Range": "5'7\" - 5'10\" (170-178 cm)"
+                },
+                {
+                    "Length": "Extra Long",
+                    "Inseam": "34",
+                    "Height_Range": "5'10\"+ (178+ cm)"
+                }
+            ]
+        }
+    },
+    "fit_notes": "Levi's offers various fits: 311 Shaping Skinny, 711 Skinny, 721 High Rise Skinny, 501 Original, Wedgie, Ribcage, etc. Each fit has different rise and leg opening. Stretch denim provides more flexibility in sizing.",
+    "measurement_guide": {
+        "how_to_measure": "Waist: Measure at the narrowest part of your natural waist.\nHips: Measure around the fullest part of your hips.\nInseam: Measure from the crotch to the ankle.",
+        "tips": [
+            "Consider the rise (low, mid, high) when choosing jeans",
+            "Stretch denim may run slightly smaller initially but stretches with wear"
+        ]
+    }
+}

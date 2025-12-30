@@ -1,0 +1,79 @@
+{
+    "brand": "Uniqlo",
+    "brand_slug": "uniqlo",
+    "category": "Women's Tops",
+    "category_slug": "womens-tops",
+    "gender": "Women",
+    "source_url": "https://www.uniqlo.com/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Uniqlo sizes may run a bit small. Consider sizing up for a more relaxed fit. Measurements can vary by 1-2 cm depending on the product and fabric.",
+    "unit_system": [
+        "CM"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "UK Size",
+            "EU Size",
+            "Body Length (cm)",
+            "Shoulder Width (cm)",
+            "Body Width (cm)",
+            "Sleeve Length (cm)"
+        ],
+        "rows": [
+            {
+                "Size": "XS",
+                "UK": "6",
+                "EU": "34",
+                "Body_Length_CM": "51",
+                "Shoulder_Width_CM": "37",
+                "Body_Width_CM": "47",
+                "Sleeve_Length_CM": "77"
+            },
+            {
+                "Size": "S",
+                "UK": "8",
+                "EU": "36",
+                "Body_Length_CM": "53",
+                "Shoulder_Width_CM": "38",
+                "Body_Width_CM": "50",
+                "Sleeve_Length_CM": "77"
+            },
+            {
+                "Size": "M",
+                "UK": "10",
+                "EU": "38",
+                "Body_Length_CM": "55",
+                "Shoulder_Width_CM": "39",
+                "Body_Width_CM": "53",
+                "Sleeve_Length_CM": "80"
+            },
+            {
+                "Size": "L",
+                "UK": "12",
+                "EU": "40",
+                "Body_Length_CM": "56",
+                "Shoulder_Width_CM": "41",
+                "Body_Width_CM": "56",
+                "Sleeve_Length_CM": "81"
+            },
+            {
+                "Size": "XL",
+                "UK": "14",
+                "EU": "42",
+                "Body_Length_CM": "57",
+                "Shoulder_Width_CM": "42",
+                "Body_Width_CM": "58",
+                "Sleeve_Length_CM": "82"
+            }
+        ]
+    },
+    "fit_notes": "Uniqlo offers two types of measurements: Body Measurement (your body size without clothing) and Clothing Guide (actual product size). Check the product page for specific measurements.",
+    "measurement_guide": {
+        "how_to_measure": "Bust: Measure around the fullest part of your bust.\nWaist: Measure at the narrowest point of your waist.\nShoulder: Measure from shoulder point to shoulder point across the back.",
+        "tips": [
+            "Always check the 'Size Chart' button on individual product pages",
+            "Extended sizes (XS, 2XL, 3XL) may be available online only"
+        ]
+    }
+}

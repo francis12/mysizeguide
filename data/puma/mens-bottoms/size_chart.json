@@ -1,0 +1,65 @@
+{
+    "brand": "Puma",
+    "brand_slug": "puma",
+    "category": "Men's Bottoms",
+    "category_slug": "mens-bottoms",
+    "gender": "Men",
+    "source_url": "https://www.puma.com/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Measurements are body measurements in centimeters.",
+    "unit_system": [
+        "CM"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "Waist (cm)",
+            "Hip (cm)"
+        ],
+        "rows": [
+            {
+                "Size": "XS",
+                "Waist_CM": "68-75",
+                "Hip_CM": "80-87"
+            },
+            {
+                "Size": "S",
+                "Waist_CM": "76-83",
+                "Hip_CM": "88-95"
+            },
+            {
+                "Size": "M",
+                "Waist_CM": "84-91",
+                "Hip_CM": "96-103"
+            },
+            {
+                "Size": "L",
+                "Waist_CM": "92-100",
+                "Hip_CM": "104-112"
+            },
+            {
+                "Size": "XL",
+                "Waist_CM": "101-110",
+                "Hip_CM": "113-122"
+            },
+            {
+                "Size": "2XL",
+                "Waist_CM": "111-121",
+                "Hip_CM": "123-132"
+            },
+            {
+                "Size": "3XL",
+                "Waist_CM": "122-132",
+                "Hip_CM": "133-142"
+            }
+        ]
+    },
+    "fit_notes": "If your measurements fall between sizes, size up for a looser fit or size down for a tighter fit.",
+    "measurement_guide": {
+        "how_to_measure": "Waist: Measure horizontally around the narrowest part of your waist, about two fingers' width above your belly button.\nHips: Measure horizontally over the fullest part of your hips and buttocks.",
+        "tips": [
+            "Take measurements over light clothing or underwear",
+            "Keep the tape snug but not too tight"
+        ]
+    }
+}

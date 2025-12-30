@@ -1,0 +1,90 @@
+{
+    "brand": "Gap",
+    "brand_slug": "gap",
+    "category": "Women's Tops",
+    "category_slug": "womens-tops",
+    "gender": "Women",
+    "source_url": "https://www.gap.com/browse/sizeChart.do",
+    "collected_date": "2025-12-29",
+    "notes": "Gap offers Petite (under 5'4\"/162cm) and Tall (over 5'8\"/172cm) sizes in addition to Regular.",
+    "unit_system": [
+        "INCH",
+        "CM"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "US Size",
+            "Bust (in)",
+            "Bust (cm)",
+            "Sleeve (in)",
+            "Sleeve (cm)"
+        ],
+        "rows": [
+            {
+                "Size": "XXS",
+                "US": "00",
+                "Bust_IN": "30.25-31.25",
+                "Bust_CM": "77-79",
+                "Sleeve_IN": "30.5",
+                "Sleeve_CM": "77"
+            },
+            {
+                "Size": "XS",
+                "US": "0-2",
+                "Bust_IN": "32.25-33.25",
+                "Bust_CM": "82-84",
+                "Sleeve_IN": "31",
+                "Sleeve_CM": "79"
+            },
+            {
+                "Size": "S",
+                "US": "4-6",
+                "Bust_IN": "34.25-35.25",
+                "Bust_CM": "87-90",
+                "Sleeve_IN": "31.25",
+                "Sleeve_CM": "79"
+            },
+            {
+                "Size": "M",
+                "US": "8-10",
+                "Bust_IN": "36.25-37.25",
+                "Bust_CM": "92-95",
+                "Sleeve_IN": "31.75",
+                "Sleeve_CM": "81"
+            },
+            {
+                "Size": "L",
+                "US": "12-14",
+                "Bust_IN": "38.75-40.25",
+                "Bust_CM": "98-102",
+                "Sleeve_IN": "32.25",
+                "Sleeve_CM": "82"
+            },
+            {
+                "Size": "XL",
+                "US": "16-18",
+                "Bust_IN": "42-43.75",
+                "Bust_CM": "107-111",
+                "Sleeve_IN": "32.75",
+                "Sleeve_CM": "83"
+            },
+            {
+                "Size": "XXL",
+                "US": "20-22",
+                "Bust_IN": "45.75-47.75",
+                "Bust_CM": "116-121",
+                "Sleeve_IN": "33.5",
+                "Sleeve_CM": "85"
+            }
+        ]
+    },
+    "fit_notes": "Petite sizes feature smaller waist-to-hip ratio and shorter lengths for tops and sleeves. Tall sizes provide additional length.",
+    "measurement_guide": {
+        "how_to_measure": "Bust: Measure around the fullest part of your bust.\nSleeve: With arm bent at 90 degrees, measure from the middle of the back of your neck, across the shoulder, and down to the wrist.",
+        "tips": [
+            "Petite sizes for heights under 5'4\" (162 cm)",
+            "Tall sizes for heights over 5'8\" (172 cm)"
+        ]
+    }
+}

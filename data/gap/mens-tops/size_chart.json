@@ -1,0 +1,88 @@
+{
+    "brand": "Gap",
+    "brand_slug": "gap",
+    "category": "Men's Tops",
+    "category_slug": "mens-tops",
+    "gender": "Men",
+    "source_url": "https://www.gap.com/browse/sizeChart.do",
+    "collected_date": "2025-12-29",
+    "notes": "Gap sizing is generally consistent and runs true to size. Tall sizes available for individuals over 6'0\" (183 cm).",
+    "unit_system": [
+        "INCH",
+        "CM"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "Chest (in)",
+            "Chest (cm)",
+            "Neck (in)",
+            "Neck (cm)",
+            "Sleeve (in)",
+            "Sleeve (cm)"
+        ],
+        "rows": [
+            {
+                "Size": "XS",
+                "Chest_IN": "35-36",
+                "Chest_CM": "89-91",
+                "Neck_IN": "13.5-14",
+                "Neck_CM": "34-36",
+                "Sleeve_IN": "31-32",
+                "Sleeve_CM": "79-81"
+            },
+            {
+                "Size": "S",
+                "Chest_IN": "37-38",
+                "Chest_CM": "94-97",
+                "Neck_IN": "14-14.5",
+                "Neck_CM": "36-37",
+                "Sleeve_IN": "32-33",
+                "Sleeve_CM": "81-84"
+            },
+            {
+                "Size": "M",
+                "Chest_IN": "39-41",
+                "Chest_CM": "99-104",
+                "Neck_IN": "15-15.5",
+                "Neck_CM": "38-39",
+                "Sleeve_IN": "33-34",
+                "Sleeve_CM": "84-86"
+            },
+            {
+                "Size": "L",
+                "Chest_IN": "42-44",
+                "Chest_CM": "107-112",
+                "Neck_IN": "16-16.5",
+                "Neck_CM": "41-42",
+                "Sleeve_IN": "34-35",
+                "Sleeve_CM": "86-89"
+            },
+            {
+                "Size": "XL",
+                "Chest_IN": "45-48",
+                "Chest_CM": "114-122",
+                "Neck_IN": "17-17.5",
+                "Neck_CM": "43-44",
+                "Sleeve_IN": "35-35.5",
+                "Sleeve_CM": "89-90"
+            },
+            {
+                "Size": "XXL",
+                "Chest_IN": "49-52",
+                "Chest_CM": "124-132",
+                "Neck_IN": "18-18.5",
+                "Neck_CM": "46-47",
+                "Sleeve_IN": "35.5-36",
+                "Sleeve_CM": "90-91"
+            }
+        ]
+    },
+    "fit_notes": "Gap offers Regular, Tall, and Big sizes. Tall sizes are 2 inches longer in the body for M-XL, and long-sleeved styles are 1 inch longer in the arm.",
+    "measurement_guide": {
+        "how_to_measure": "Chest: Lift your arms slightly and measure around the fullest part of your chest.\nNeck (Casual): Measure a well-fitting collared shirt's top collar edge when laid flat.\nNeck (Dress): Measure around the base of your neck, with one finger between your neck and the tape.\nSleeve: With arm bent at 90 degrees and hand on hip, measure from the middle of the back of your neck, across the shoulder, and down to the wrist.",
+        "tips": [
+            "Tall sizes available online for individuals over 6'0\" (183 cm)"
+        ]
+    }
+}

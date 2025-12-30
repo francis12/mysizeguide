@@ -1,0 +1,60 @@
+{
+    "brand": "Uniqlo",
+    "brand_slug": "uniqlo",
+    "category": "Men's Bottoms",
+    "category_slug": "mens-bottoms",
+    "gender": "Men",
+    "source_url": "https://www.uniqlo.com/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Uniqlo sizing can run slightly small. Check product-specific size charts for the most accurate measurements.",
+    "unit_system": [
+        "CM",
+        "INCH"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "Waist (cm)",
+            "Waist (in)"
+        ],
+        "rows": [
+            {
+                "Size": "XS",
+                "Waist_CM": "71",
+                "Waist_IN": "26"
+            },
+            {
+                "Size": "S",
+                "Waist_CM": "72",
+                "Waist_IN": "28"
+            },
+            {
+                "Size": "M",
+                "Waist_CM": "80",
+                "Waist_IN": "31"
+            },
+            {
+                "Size": "L",
+                "Waist_CM": "88",
+                "Waist_IN": "34"
+            },
+            {
+                "Size": "XL",
+                "Waist_CM": "96",
+                "Waist_IN": "38"
+            },
+            {
+                "Size": "XXL",
+                "Waist_CM": "104",
+                "Waist_IN": "40"
+            }
+        ]
+    },
+    "fit_notes": "If you prefer a looser fit, consider sizing up. Uniqlo's fit varies by style (slim, regular, relaxed).",
+    "measurement_guide": {
+        "how_to_measure": "Waist: Measure around your natural waistline, at the narrowest point.",
+        "tips": [
+            "Different pant styles (slim vs relaxed) will fit differently even in the same size"
+        ]
+    }
+}

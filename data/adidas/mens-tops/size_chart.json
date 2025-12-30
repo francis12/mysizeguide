@@ -1,0 +1,65 @@
+{
+    "brand": "Adidas",
+    "brand_slug": "adidas",
+    "category": "Men's Tops",
+    "category_slug": "mens-tops",
+    "gender": "Men",
+    "source_url": "https://www.adidas.com/us/help/size-charts",
+    "collected_date": "2025-12-29",
+    "notes": "Measurements are body measurements in centimeters. If measurements fall between sizes, order smaller for tighter fit or larger for looser fit.",
+    "unit_system": [
+        "CM"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "Chest (cm)",
+            "Waist (cm)"
+        ],
+        "rows": [
+            {
+                "Size": "XS",
+                "Chest_CM": "83-86",
+                "Waist_CM": "71-74"
+            },
+            {
+                "Size": "S",
+                "Chest_CM": "87-92",
+                "Waist_CM": "75-80"
+            },
+            {
+                "Size": "M",
+                "Chest_CM": "93-100",
+                "Waist_CM": "81-88"
+            },
+            {
+                "Size": "L",
+                "Chest_CM": "101-108",
+                "Waist_CM": "89-96"
+            },
+            {
+                "Size": "XL",
+                "Chest_CM": "109-118",
+                "Waist_CM": "97-106"
+            },
+            {
+                "Size": "2XL",
+                "Chest_CM": "119-130",
+                "Waist_CM": "107-119"
+            },
+            {
+                "Size": "3XL",
+                "Chest_CM": "131-142",
+                "Waist_CM": "120-132"
+            }
+        ]
+    },
+    "fit_notes": "If your chest and waist measurements suggest different sizes, it is generally recommended to order based on your chest measurement.",
+    "measurement_guide": {
+        "how_to_measure": "Chest: Measure around the widest part of your chest.\nWaist: Measure around the narrowest part of your waist.",
+        "tips": [
+            "Keep the measuring tape snug but not too tight",
+            "Measure over light clothing or directly on skin for best accuracy"
+        ]
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "brand": "Victoria's Secret",
+    "brand_slug": "victorias-secret",
+    "category": "Panties",
+    "category_slug": "panties",
+    "gender": "Women",
+    "source_url": "https://www.victoriassecret.com/us/vs/panties/panty-size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Victoria's Secret panties use both alpha (XS-XL) and numeric (2-14) sizing. Measure at the fullest part of your hips for the best fit.",
+    "unit_system": [
+        "INCH",
+        "CM"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "US Size",
+            "Hip (in)",
+            "Hip (cm)",
+            "Waist (in)",
+            "Waist (cm)"
+        ],
+        "rows": [
+            {
+                "Size": "XS",
+                "US": "2",
+                "Hip_IN": "33-34",
+                "Hip_CM": "84-86",
+                "Waist_IN": "23-24",
+                "Waist_CM": "58-61"
+            },
+            {
+                "Size": "S",
+                "US": "4-6",
+                "Hip_IN": "35-37",
+                "Hip_CM": "89-94",
+                "Waist_IN": "25-27",
+                "Waist_CM": "64-69"
+            },
+            {
+                "Size": "M",
+                "US": "8-10",
+                "Hip_IN": "38-40",
+                "Hip_CM": "97-102",
+                "Waist_IN": "28-30",
+                "Waist_CM": "71-76"
+            },
+            {
+                "Size": "L",
+                "US": "12-14",
+                "Hip_IN": "41-43",
+                "Hip_CM": "104-109",
+                "Waist_IN": "31-33",
+                "Waist_CM": "79-84"
+            },
+            {
+                "Size": "XL",
+                "US": "16",
+                "Hip_IN": "44-46",
+                "Hip_CM": "112-117",
+                "Waist_IN": "34-36",
+                "Waist_CM": "86-91"
+            }
+        ]
+    },
+    "fit_notes": "Different panty styles (thong, bikini, brief, boyshort, cheekster) fit differently. Thongs and cheeksters tend to run smaller. For the most comfortable fit, measure your hips at the fullest point.",
+    "measurement_guide": {
+        "how_to_measure": "Hip Measurement: Stand with feet together and measure around the fullest part of your hips and buttocks, keeping the tape parallel to the ground.\nWaist Measurement: Measure around your natural waistline, at the narrowest point of your waist.",
+        "tips": [
+            "Hip measurement is the most important for panty sizing",
+            "Different styles (thong, bikini, brief) fit differently",
+            "Consider sizing up for more coverage styles like boyshorts"
+        ]
+    }
+}

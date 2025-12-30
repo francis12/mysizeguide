@@ -1,0 +1,152 @@
+{
+    "brand": "Shein",
+    "brand_slug": "shein",
+    "category": "Women's Dresses",
+    "category_slug": "womens-dresses",
+    "gender": "Women",
+    "source_url": "https://www.shein.com/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "IMPORTANT: Shein dress sizing varies significantly by style and fabric. ALWAYS check the product-specific size chart. Fitted dresses may run especially small.",
+    "unit_system": [
+        "CM",
+        "INCH"
+    ],
+    "size_chart": {
+        "standard": {
+            "headers": [
+                "Size",
+                "Bust (cm)",
+                "Bust (in)",
+                "Waist (cm)",
+                "Waist (in)",
+                "Hip (cm)",
+                "Hip (in)"
+            ],
+            "rows": [
+                {
+                    "Size": "XS",
+                    "Bust_CM": "76-82",
+                    "Bust_IN": "30-32",
+                    "Waist_CM": "58-64",
+                    "Waist_IN": "23-25",
+                    "Hip_CM": "84-90",
+                    "Hip_IN": "33-35"
+                },
+                {
+                    "Size": "S",
+                    "Bust_CM": "82-88",
+                    "Bust_IN": "32-35",
+                    "Waist_CM": "64-70",
+                    "Waist_IN": "25-28",
+                    "Hip_CM": "90-96",
+                    "Hip_IN": "35-38"
+                },
+                {
+                    "Size": "M",
+                    "Bust_CM": "88-94",
+                    "Bust_IN": "35-37",
+                    "Waist_CM": "70-76",
+                    "Waist_IN": "28-30",
+                    "Hip_CM": "96-102",
+                    "Hip_IN": "38-40"
+                },
+                {
+                    "Size": "L",
+                    "Bust_CM": "94-100",
+                    "Bust_IN": "37-39",
+                    "Waist_CM": "76-82",
+                    "Waist_IN": "30-32",
+                    "Hip_CM": "102-108",
+                    "Hip_IN": "40-43"
+                },
+                {
+                    "Size": "XL",
+                    "Bust_CM": "100-106",
+                    "Bust_IN": "39-42",
+                    "Waist_CM": "82-88",
+                    "Waist_IN": "32-35",
+                    "Hip_CM": "108-114",
+                    "Hip_IN": "43-45"
+                }
+            ]
+        },
+        "plus_curve": {
+            "notes": "Shein Curve (Plus Sizes) for Dresses",
+            "headers": [
+                "Size",
+                "Bust (cm)",
+                "Bust (in)",
+                "Waist (cm)",
+                "Waist (in)",
+                "Hip (cm)",
+                "Hip (in)"
+            ],
+            "rows": [
+                {
+                    "Size": "0XL",
+                    "Bust_CM": "101-107",
+                    "Bust_IN": "40-42",
+                    "Waist_CM": "81-87",
+                    "Waist_IN": "32-34",
+                    "Hip_CM": "111-117",
+                    "Hip_IN": "44-46"
+                },
+                {
+                    "Size": "1XL",
+                    "Bust_CM": "107-113",
+                    "Bust_IN": "42-44",
+                    "Waist_CM": "87-93",
+                    "Waist_IN": "34-37",
+                    "Hip_CM": "117-123",
+                    "Hip_IN": "46-48"
+                },
+                {
+                    "Size": "2XL",
+                    "Bust_CM": "113-119",
+                    "Bust_IN": "44-47",
+                    "Waist_CM": "93-99",
+                    "Waist_IN": "37-39",
+                    "Hip_CM": "123-129",
+                    "Hip_IN": "48-51"
+                },
+                {
+                    "Size": "3XL",
+                    "Bust_CM": "119-124",
+                    "Bust_IN": "47-49",
+                    "Waist_CM": "99-105",
+                    "Waist_IN": "39-41",
+                    "Hip_CM": "129-135",
+                    "Hip_IN": "51-53"
+                },
+                {
+                    "Size": "4XL",
+                    "Bust_CM": "125-131",
+                    "Bust_IN": "49-52",
+                    "Waist_CM": "105-111",
+                    "Waist_IN": "41-44",
+                    "Hip_CM": "135-141",
+                    "Hip_IN": "53-56"
+                },
+                {
+                    "Size": "5XL",
+                    "Bust_CM": "131-137",
+                    "Bust_IN": "52-54",
+                    "Waist_CM": "111-117",
+                    "Waist_IN": "44-46",
+                    "Hip_CM": "141-147",
+                    "Hip_IN": "56-58"
+                }
+            ]
+        }
+    },
+    "fit_notes": "Shein dresses often run 1-2 sizes smaller than typical US sizing. For fitted dresses, strongly consider sizing up. For looser/flowy styles, standard sizing may work. Check dress length measurements carefully.",
+    "measurement_guide": {
+        "how_to_measure": "Bust: Measure around the fullest part of your bust.\nWaist: Measure at the narrowest point of your waist.\nHip: Measure around the fullest part of your hips.\nLength: Check product page for dress length from shoulder to hem.",
+        "tips": [
+            "ALWAYS check the specific size guide on each product page",
+            "Customer reviews often include photos showing actual fit",
+            "Consider sizing up for fitted/bodycon styles",
+            "Check dress length carefully - Shein dresses may run shorter"
+        ]
+    }
+}

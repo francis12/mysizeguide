@@ -1,0 +1,82 @@
+{
+    "brand": "The North Face",
+    "brand_slug": "the-north-face",
+    "category": "Men's Tops",
+    "category_slug": "mens-tops",
+    "gender": "Men",
+    "source_url": "https://www.thenorthface.com/help/size-charts.html",
+    "collected_date": "2025-12-29",
+    "notes": "Measurements are body measurements. Compare your body measurements to these charts rather than the product measurements.",
+    "unit_system": [
+        "CM",
+        "INCH"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "Chest (cm)",
+            "Chest (in)",
+            "Waist (cm)",
+            "Waist (in)"
+        ],
+        "rows": [
+            {
+                "Size": "XS",
+                "Chest_CM": "84-86",
+                "Chest_IN": "33-34",
+                "Waist_CM": "66-71",
+                "Waist_IN": "26-28"
+            },
+            {
+                "Size": "S",
+                "Chest_CM": "91-96",
+                "Chest_IN": "36-38",
+                "Waist_CM": "74-79",
+                "Waist_IN": "29-31"
+            },
+            {
+                "Size": "M",
+                "Chest_CM": "99-104",
+                "Chest_IN": "39-41",
+                "Waist_CM": "81-86",
+                "Waist_IN": "32-34"
+            },
+            {
+                "Size": "L",
+                "Chest_CM": "107-112",
+                "Chest_IN": "42-44",
+                "Waist_CM": "89-95",
+                "Waist_IN": "35-37"
+            },
+            {
+                "Size": "XL",
+                "Chest_CM": "114-122",
+                "Chest_IN": "45-48",
+                "Waist_CM": "96-104",
+                "Waist_IN": "38-40"
+            },
+            {
+                "Size": "2XL",
+                "Chest_CM": "124-135",
+                "Chest_IN": "49-53",
+                "Waist_CM": "107-114",
+                "Waist_IN": "41-43"
+            },
+            {
+                "Size": "3XL",
+                "Chest_CM": "137-147",
+                "Chest_IN": "53-56",
+                "Waist_CM": "117-124",
+                "Waist_IN": "44-46"
+            }
+        ]
+    },
+    "fit_notes": "The North Face offers Regular and Tall fits for some styles. If between sizes, size up for layering or a looser fit.",
+    "measurement_guide": {
+        "how_to_measure": "Chest: Measure the total circumference of your chest at its fullest point, just under your armpit.\nWaist: Find your natural waist by placing your hands on your hips and bending to the side; the indent is your natural waist. Measure about 2.5 cm (1 inch) above your belly button.",
+        "tips": [
+            "Keep the tape slightly loose for breathing room",
+            "Compare your body measurements to the chart, not your clothing measurements"
+        ]
+    }
+}

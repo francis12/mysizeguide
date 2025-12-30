@@ -1,0 +1,88 @@
+{
+    "brand": "H&M",
+    "brand_slug": "hm",
+    "category": "Women's Bottoms",
+    "category_slug": "womens-bottoms",
+    "gender": "Women",
+    "source_url": "https://www2.hm.com/en_us/customer-service/size-guide/women.html",
+    "collected_date": "2025-12-29",
+    "notes": "Jeans sizes are often given as waist/inner leg (e.g., 30/32). Inner leg length for regular sizes is typically 31 inches.",
+    "unit_system": [
+        "INCH",
+        "CM"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "US Size",
+            "Waist (in)",
+            "Waist (cm)",
+            "Hips (in)",
+            "Hips (cm)",
+            "Inside Leg (in)"
+        ],
+        "rows": [
+            {
+                "Size": "XS",
+                "US": "2-4",
+                "Waist_IN": "23.5-25.25",
+                "Waist_CM": "60-64",
+                "Hips_IN": "33-34.5",
+                "Hips_CM": "84-88",
+                "InsideLeg_IN": "31"
+            },
+            {
+                "Size": "S",
+                "US": "6-8",
+                "Waist_IN": "26.75-28.5",
+                "Waist_CM": "68-72",
+                "Hips_IN": "36.25-37.75",
+                "Hips_CM": "92-96",
+                "InsideLeg_IN": "31"
+            },
+            {
+                "Size": "M",
+                "US": "10-12",
+                "Waist_IN": "30-31.5",
+                "Waist_CM": "76-80",
+                "Hips_IN": "39.5-41",
+                "Hips_CM": "100-104",
+                "InsideLeg_IN": "31"
+            },
+            {
+                "Size": "L",
+                "US": "14-16",
+                "Waist_IN": "33-34.5",
+                "Waist_CM": "84-88",
+                "Hips_IN": "42.5-44",
+                "Hips_CM": "108-112",
+                "InsideLeg_IN": "31"
+            },
+            {
+                "Size": "XL",
+                "US": "18-20",
+                "Waist_IN": "37-39.5",
+                "Waist_CM": "94-100",
+                "Hips_IN": "46-48",
+                "Hips_CM": "117-122",
+                "InsideLeg_IN": "31"
+            },
+            {
+                "Size": "2XL",
+                "US": "22-24",
+                "Waist_IN": "41.75-44",
+                "Waist_CM": "106-112",
+                "Hips_IN": "50-52",
+                "Hips_CM": "127-132",
+                "InsideLeg_IN": "31"
+            }
+        ]
+    },
+    "fit_notes": "Petite sizes with 28.5 inch (73 cm) inseam are available for heights around 5'3\" (160cm). Different fits (Slim, Regular, Wide Leg) are available.",
+    "measurement_guide": {
+        "how_to_measure": "Waist: Measure at the narrowest point of your waist.\nHips: Measure around the fullest part of your hips.\nInside Leg: Measure from the crotch to the floor.",
+        "tips": [
+            "For best results, measure a pair of pants that fit you well"
+        ]
+    }
+}

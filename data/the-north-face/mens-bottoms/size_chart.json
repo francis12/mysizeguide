@@ -1,0 +1,65 @@
+{
+    "brand": "The North Face",
+    "brand_slug": "the-north-face",
+    "category": "Men's Bottoms",
+    "category_slug": "mens-bottoms",
+    "gender": "Men",
+    "source_url": "https://www.thenorthface.com/help/size-charts.html",
+    "collected_date": "2025-12-29",
+    "notes": "Measurements refer to body measurements, not product dimensions. If waist and hip suggest different sizes, use hip measurement.",
+    "unit_system": [
+        "CM"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "Waist (cm)",
+            "Hip (cm)"
+        ],
+        "rows": [
+            {
+                "Size": "XS",
+                "Waist_CM": "66-71",
+                "Hip_CM": "81-86"
+            },
+            {
+                "Size": "S",
+                "Waist_CM": "74-79",
+                "Hip_CM": "89-94"
+            },
+            {
+                "Size": "M",
+                "Waist_CM": "81-86",
+                "Hip_CM": "97-102"
+            },
+            {
+                "Size": "L",
+                "Waist_CM": "89-96",
+                "Hip_CM": "104-109"
+            },
+            {
+                "Size": "XL",
+                "Waist_CM": "96-104",
+                "Hip_CM": "112-117"
+            },
+            {
+                "Size": "XXL",
+                "Waist_CM": "107-114",
+                "Hip_CM": "119-124"
+            },
+            {
+                "Size": "3XL",
+                "Waist_CM": "117-124",
+                "Hip_CM": "127-132"
+            }
+        ]
+    },
+    "fit_notes": "The North Face offers various fits for bottoms. Consider sizing up for layering base layers underneath.",
+    "measurement_guide": {
+        "how_to_measure": "Waist: Measure around your natural waistline, approximately 2.5 cm above your belly button.\nHips: Measure around the fullest part of your hips, standing with your feet together.",
+        "tips": [
+            "If waist and hip correspond to different sizes, use hip measurement for bottoms",
+            "Consider sizing up for layering in cold weather"
+        ]
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "brand": "H&M",
+    "brand_slug": "hm",
+    "category": "Men's Bottoms",
+    "category_slug": "mens-bottoms",
+    "gender": "Men",
+    "source_url": "https://www2.hm.com/en_us/customer-service/size-guide/men.html",
+    "collected_date": "2025-12-29",
+    "notes": "H&M jeans sizes are often given in inches (e.g., 30/32) where the first number is waist and second is inner leg length.",
+    "unit_system": [
+        "CM"
+    ],
+    "size_chart": {
+        "headers": [
+            "EUR Size",
+            "US Size",
+            "Waist (cm)",
+            "Seat (cm)",
+            "Inside Leg (cm)"
+        ],
+        "rows": [
+            {
+                "EUR": "42",
+                "US": "28R",
+                "Waist_CM": "72",
+                "Seat_CM": "90",
+                "InsideLeg_CM": "81"
+            },
+            {
+                "EUR": "44",
+                "US": "30R",
+                "Waist_CM": "76",
+                "Seat_CM": "93",
+                "InsideLeg_CM": "81"
+            },
+            {
+                "EUR": "46",
+                "US": "32R",
+                "Waist_CM": "80",
+                "Seat_CM": "96",
+                "InsideLeg_CM": "82"
+            },
+            {
+                "EUR": "48",
+                "US": "33R",
+                "Waist_CM": "84",
+                "Seat_CM": "99",
+                "InsideLeg_CM": "82"
+            },
+            {
+                "EUR": "50",
+                "US": "34R",
+                "Waist_CM": "88",
+                "Seat_CM": "102",
+                "InsideLeg_CM": "83"
+            },
+            {
+                "EUR": "52",
+                "US": "36R",
+                "Waist_CM": "92",
+                "Seat_CM": "105",
+                "InsideLeg_CM": "83"
+            },
+            {
+                "EUR": "54",
+                "US": "38R",
+                "Waist_CM": "96",
+                "Seat_CM": "108",
+                "InsideLeg_CM": "84"
+            },
+            {
+                "EUR": "56",
+                "US": "40R",
+                "Waist_CM": "100",
+                "Seat_CM": "111",
+                "InsideLeg_CM": "85"
+            },
+            {
+                "EUR": "58",
+                "US": "42R",
+                "Waist_CM": "104",
+                "Seat_CM": "114",
+                "InsideLeg_CM": "85"
+            },
+            {
+                "EUR": "60",
+                "US": "44R",
+                "Waist_CM": "108",
+                "Seat_CM": "117",
+                "InsideLeg_CM": "86"
+            },
+            {
+                "EUR": "62",
+                "US": "46R",
+                "Waist_CM": "112",
+                "Seat_CM": "120",
+                "InsideLeg_CM": "86"
+            }
+        ]
+    },
+    "fit_notes": "R indicates Regular length. Different fits (Slim, Regular, Relaxed) are available in the same waist size.",
+    "measurement_guide": {
+        "how_to_measure": "Waist: Measure at the narrowest point of your waist.\nSeat/Low Hip: Measure around the fullest part of your hip.\nInside Leg: Measure from the crotch to the floor.",
+        "tips": [
+            "For the most accurate inside leg measurement, wear the shoes you plan to wear with the pants"
+        ]
+    }
+}

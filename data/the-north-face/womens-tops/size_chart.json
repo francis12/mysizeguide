@@ -1,0 +1,75 @@
+{
+    "brand": "The North Face",
+    "brand_slug": "the-north-face",
+    "category": "Women's Tops",
+    "category_slug": "womens-tops",
+    "gender": "Women",
+    "source_url": "https://www.thenorthface.com/help/size-charts.html",
+    "collected_date": "2025-12-29",
+    "notes": "Measurements are body measurements. Wear a bra when measuring chest.",
+    "unit_system": [
+        "CM",
+        "INCH"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "Chest (cm)",
+            "Chest (in)",
+            "Waist (cm)",
+            "Waist (in)"
+        ],
+        "rows": [
+            {
+                "Size": "XS",
+                "Chest_CM": "78-81",
+                "Chest_IN": "31-32",
+                "Waist_CM": "61-64",
+                "Waist_IN": "24-25"
+            },
+            {
+                "Size": "S",
+                "Chest_CM": "84-89",
+                "Chest_IN": "33-35",
+                "Waist_CM": "66-71",
+                "Waist_IN": "26-28"
+            },
+            {
+                "Size": "M",
+                "Chest_CM": "91-94",
+                "Chest_IN": "36-38",
+                "Waist_CM": "74-76",
+                "Waist_IN": "29-31"
+            },
+            {
+                "Size": "L",
+                "Chest_CM": "99-102",
+                "Chest_IN": "39-41",
+                "Waist_CM": "81-84",
+                "Waist_IN": "32-34"
+            },
+            {
+                "Size": "XL",
+                "Chest_CM": "107-112",
+                "Chest_IN": "42-44",
+                "Waist_CM": "89-94",
+                "Waist_IN": "35-38"
+            },
+            {
+                "Size": "2XL",
+                "Chest_CM": "117-119",
+                "Chest_IN": "45-48",
+                "Waist_CM": "99-102",
+                "Waist_IN": "39-42"
+            }
+        ]
+    },
+    "fit_notes": "The North Face offers different fits for different activities. Check individual product descriptions for fit recommendations.",
+    "measurement_guide": {
+        "how_to_measure": "Chest: Wear a bra and measure around the fullest part of your bust, keeping the tape horizontal.\nWaist: Find your natural waist by bending to the side; the indent is your natural waist. Measure the total circumference at this point.",
+        "tips": [
+            "Keep the tape snug but not too tight",
+            "For layering, consider sizing up"
+        ]
+    }
+}

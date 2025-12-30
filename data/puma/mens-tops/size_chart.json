@@ -1,0 +1,82 @@
+{
+    "brand": "Puma",
+    "brand_slug": "puma",
+    "category": "Men's Tops",
+    "category_slug": "mens-tops",
+    "gender": "Men",
+    "source_url": "https://www.puma.com/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Puma sizing is generally consistent with other athletic brands. Measurements are body measurements.",
+    "unit_system": [
+        "CM",
+        "INCH"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "Chest (cm)",
+            "Chest (in)",
+            "Waist (cm)",
+            "Waist (in)"
+        ],
+        "rows": [
+            {
+                "Size": "XS",
+                "Chest_CM": "84-88",
+                "Chest_IN": "33-34.5",
+                "Waist_CM": "71-75",
+                "Waist_IN": "28-29.5"
+            },
+            {
+                "Size": "S",
+                "Chest_CM": "89-94",
+                "Chest_IN": "35-37",
+                "Waist_CM": "76-81",
+                "Waist_IN": "30-32"
+            },
+            {
+                "Size": "M",
+                "Chest_CM": "95-100",
+                "Chest_IN": "37.5-39.5",
+                "Waist_CM": "82-87",
+                "Waist_IN": "32.5-34"
+            },
+            {
+                "Size": "L",
+                "Chest_CM": "101-106",
+                "Chest_IN": "40-42",
+                "Waist_CM": "88-93",
+                "Waist_IN": "34.5-36.5"
+            },
+            {
+                "Size": "XL",
+                "Chest_CM": "107-114",
+                "Chest_IN": "42-45",
+                "Waist_CM": "94-101",
+                "Waist_IN": "37-40"
+            },
+            {
+                "Size": "XXL",
+                "Chest_CM": "115-122",
+                "Chest_IN": "45.5-48",
+                "Waist_CM": "102-109",
+                "Waist_IN": "40-43"
+            },
+            {
+                "Size": "3XL",
+                "Chest_CM": "123-130",
+                "Chest_IN": "48.5-51",
+                "Waist_CM": "110-117",
+                "Waist_IN": "43.5-46"
+            }
+        ]
+    },
+    "fit_notes": "If your measurements fall between two sizes, size up for a looser fit or size down for a tighter, more fitted look.",
+    "measurement_guide": {
+        "how_to_measure": "Chest: Measure around the fullest part of your chest, keeping the tape horizontal.\nWaist: Measure around your natural waistline, at the narrowest point.",
+        "tips": [
+            "Take measurements over light clothing or bare skin",
+            "Keep the tape snug but not too tight"
+        ]
+    }
+}

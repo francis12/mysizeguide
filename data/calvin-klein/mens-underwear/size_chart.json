@@ -1,0 +1,68 @@
+{
+    "brand": "Calvin Klein",
+    "brand_slug": "calvin-klein",
+    "category": "Men's Underwear",
+    "category_slug": "mens-underwear",
+    "gender": "Men",
+    "source_url": "https://www.calvinklein.com/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Calvin Klein's sizing may differ from other brands. Always take fresh measurements before purchasing.",
+    "unit_system": [
+        "INCH",
+        "CM"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "Waist (in)",
+            "Waist (cm)",
+            "Chest (in)",
+            "Chest (cm)"
+        ],
+        "rows": [
+            {
+                "Size": "S",
+                "Waist_IN": "28-30",
+                "Waist_CM": "72-77",
+                "Chest_IN": "36",
+                "Chest_CM": "91"
+            },
+            {
+                "Size": "M",
+                "Waist_IN": "32-34",
+                "Waist_CM": "81-86",
+                "Chest_IN": "38-40",
+                "Chest_CM": "97-102"
+            },
+            {
+                "Size": "L",
+                "Waist_IN": "36-38",
+                "Waist_CM": "91-96",
+                "Chest_IN": "42-44",
+                "Chest_CM": "107-112"
+            },
+            {
+                "Size": "XL",
+                "Waist_IN": "40-42",
+                "Waist_CM": "102-106",
+                "Chest_IN": "46-48",
+                "Chest_CM": "117-122"
+            },
+            {
+                "Size": "XXL",
+                "Waist_IN": "44-46",
+                "Waist_CM": "110-116",
+                "Chest_IN": "50-52",
+                "Chest_CM": "127-132"
+            }
+        ]
+    },
+    "fit_notes": "Calvin Klein underwear is known for a comfortable, supportive fit. If you are between sizes, consider your comfort preference - some prefer a snugger fit for support, while others opt for more breathability.",
+    "measurement_guide": {
+        "how_to_measure": "Waist: Measure around your natural waistline where your pants typically sit.\nHip: Measure around the fullest part of your hips.\nChest: Measure around the fullest part of your chest.",
+        "tips": [
+            "Compare your measurements to Calvin Klein's specific charts as their sizes can differ from other brands",
+            "For underwear bottoms, waist and hip measurements are most important"
+        ]
+    }
+}

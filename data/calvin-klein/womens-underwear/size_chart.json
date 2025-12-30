@@ -1,0 +1,130 @@
+{
+    "brand": "Calvin Klein",
+    "brand_slug": "calvin-klein",
+    "category": "Women's Underwear",
+    "category_slug": "womens-underwear",
+    "gender": "Women",
+    "source_url": "https://www.calvinklein.com/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Calvin Klein's sizing may differ from other brands. Plus sizes available up to 3X.",
+    "unit_system": [
+        "INCH",
+        "CM"
+    ],
+    "size_chart": {
+        "panties": {
+            "headers": [
+                "Size",
+                "Waist (in)",
+                "Waist (cm)",
+                "Hip (in)",
+                "Hip (cm)"
+            ],
+            "rows": [
+                {
+                    "Size": "XS",
+                    "Waist_IN": "24.5-25.5",
+                    "Waist_CM": "62-65",
+                    "Hip_IN": "34.5-35.5",
+                    "Hip_CM": "88-90"
+                },
+                {
+                    "Size": "S",
+                    "Waist_IN": "26.5-27.5",
+                    "Waist_CM": "67-70",
+                    "Hip_IN": "36.5-37.5",
+                    "Hip_CM": "93-95"
+                },
+                {
+                    "Size": "M",
+                    "Waist_IN": "28.5-29.5",
+                    "Waist_CM": "72-75",
+                    "Hip_IN": "38.5-39.5",
+                    "Hip_CM": "98-100"
+                },
+                {
+                    "Size": "L",
+                    "Waist_IN": "30.5-31.5",
+                    "Waist_CM": "77-80",
+                    "Hip_IN": "40.5-41.5",
+                    "Hip_CM": "103-105"
+                },
+                {
+                    "Size": "XL",
+                    "Waist_IN": "33.5-34.5",
+                    "Waist_CM": "85-88",
+                    "Hip_IN": "43.5-44.5",
+                    "Hip_CM": "110-113"
+                }
+            ]
+        },
+        "plus_size": {
+            "headers": [
+                "Size",
+                "Waist (in)",
+                "Waist (cm)",
+                "Hip (in)",
+                "Hip (cm)"
+            ],
+            "rows": [
+                {
+                    "Size": "1X",
+                    "Waist_IN": "36-37",
+                    "Waist_CM": "91-94",
+                    "Hip_IN": "47-48",
+                    "Hip_CM": "119-122"
+                },
+                {
+                    "Size": "2X",
+                    "Waist_IN": "38-39",
+                    "Waist_CM": "97-99",
+                    "Hip_IN": "49-50",
+                    "Hip_CM": "124-127"
+                },
+                {
+                    "Size": "3X",
+                    "Waist_IN": "40-41",
+                    "Waist_CM": "102-104",
+                    "Hip_IN": "51-52",
+                    "Hip_CM": "130-132"
+                }
+            ]
+        },
+        "bralettes": {
+            "headers": [
+                "Size",
+                "Equivalent Bra Sizes"
+            ],
+            "rows": [
+                {
+                    "Size": "XS",
+                    "Bra_Sizes": "32A, 30B"
+                },
+                {
+                    "Size": "S",
+                    "Bra_Sizes": "34A, 32B, 30C"
+                },
+                {
+                    "Size": "M",
+                    "Bra_Sizes": "36A, 34B, 36B, 32C, 34C"
+                },
+                {
+                    "Size": "L",
+                    "Bra_Sizes": "38B, 36C, 34D"
+                },
+                {
+                    "Size": "XL",
+                    "Bra_Sizes": "40C, 38D, 36DD"
+                }
+            ]
+        }
+    },
+    "fit_notes": "For panties and sleepwear, natural waist and hip measurements are essential. For bras and bralettes, bust and underbust measurements are key.",
+    "measurement_guide": {
+        "how_to_measure": "Natural Waist: Measure at the narrowest point of your waist.\nHip: Measure around the fullest part of your hips.\nBust: Measure around the fullest part of your bust.\nUnderbust: Measure directly under your bust, where the bra band sits.",
+        "tips": [
+            "Compare your measurements to Calvin Klein's specific charts",
+            "For bras, accurate band and bust measurements are crucial"
+        ]
+    }
+}

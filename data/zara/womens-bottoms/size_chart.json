@@ -1,0 +1,89 @@
+{
+    "brand": "Zara",
+    "brand_slug": "zara",
+    "category": "Women's Bottoms",
+    "category_slug": "womens-bottoms",
+    "gender": "Women",
+    "source_url": "https://www.zara.com/help/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Zara uses European sizing which may differ from US sizes. Both numeric (EU) and alpha (XS/S/M/L) sizing available.",
+    "unit_system": [
+        "CM",
+        "INCH"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "EU Size",
+            "UK Size",
+            "Waist (cm)",
+            "Waist (in)",
+            "Hips (cm)",
+            "Hips (in)"
+        ],
+        "rows": [
+            {
+                "Size": "XS",
+                "EU": "34",
+                "UK": "6",
+                "Waist_CM": "60-64",
+                "Waist_IN": "23.5-25",
+                "Hips_CM": "86-90",
+                "Hips_IN": "34-35.5"
+            },
+            {
+                "Size": "S",
+                "EU": "36",
+                "UK": "8",
+                "Waist_CM": "64-68",
+                "Waist_IN": "25-27",
+                "Hips_CM": "90-94",
+                "Hips_IN": "35.5-37"
+            },
+            {
+                "Size": "M",
+                "EU": "38",
+                "UK": "10",
+                "Waist_CM": "68-72",
+                "Waist_IN": "27-28.5",
+                "Hips_CM": "94-98",
+                "Hips_IN": "37-38.5"
+            },
+            {
+                "Size": "L",
+                "EU": "40",
+                "UK": "12",
+                "Waist_CM": "72-76",
+                "Waist_IN": "28.5-30",
+                "Hips_CM": "98-102",
+                "Hips_IN": "38.5-40"
+            },
+            {
+                "Size": "XL",
+                "EU": "42",
+                "UK": "14",
+                "Waist_CM": "76-80",
+                "Waist_IN": "30-31.5",
+                "Hips_CM": "102-106",
+                "Hips_IN": "40-42"
+            },
+            {
+                "Size": "XXL",
+                "EU": "44",
+                "UK": "16",
+                "Waist_CM": "80-84",
+                "Waist_IN": "31.5-33",
+                "Hips_CM": "106-110",
+                "Hips_IN": "42-43.5"
+            }
+        ]
+    },
+    "fit_notes": "Zara bottoms may run smaller than typical US sizing. Various fits available (Slim, Regular, Wide, Mom). Check product descriptions for specific fit information.",
+    "measurement_guide": {
+        "how_to_measure": "Waist: Measure at the narrowest point of your natural waist.\nHips: Measure around the fullest part of your hips.",
+        "tips": [
+            "Try sizing up if you prefer a more comfortable fit",
+            "Check product reviews for fit feedback from other customers"
+        ]
+    }
+}

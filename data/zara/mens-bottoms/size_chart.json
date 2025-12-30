@@ -1,0 +1,75 @@
+{
+    "brand": "Zara",
+    "brand_slug": "zara",
+    "category": "Men's Bottoms",
+    "category_slug": "mens-bottoms",
+    "gender": "Men",
+    "source_url": "https://www.zara.com/help/size-guide",
+    "collected_date": "2025-12-29",
+    "notes": "Zara uses European sizing which may run smaller than US sizes. Both numeric (UK) and alpha (S/M/L) sizing available.",
+    "unit_system": [
+        "CM",
+        "INCH"
+    ],
+    "size_chart": {
+        "headers": [
+            "Size",
+            "UK Size",
+            "EU Size",
+            "Waist (in)",
+            "Waist (cm)"
+        ],
+        "rows": [
+            {
+                "Size": "S",
+                "UK": "28",
+                "EU": "44",
+                "Waist_IN": "28-30",
+                "Waist_CM": "71-76"
+            },
+            {
+                "Size": "S",
+                "UK": "30",
+                "EU": "46",
+                "Waist_IN": "30-31.5",
+                "Waist_CM": "76-80"
+            },
+            {
+                "Size": "M",
+                "UK": "32",
+                "EU": "48",
+                "Waist_IN": "31.5-33",
+                "Waist_CM": "80-84"
+            },
+            {
+                "Size": "M",
+                "UK": "34",
+                "EU": "50",
+                "Waist_IN": "33-34.5",
+                "Waist_CM": "84-88"
+            },
+            {
+                "Size": "L",
+                "UK": "36",
+                "EU": "52",
+                "Waist_IN": "35-36",
+                "Waist_CM": "89-91"
+            },
+            {
+                "Size": "XL",
+                "UK": "38",
+                "EU": "54",
+                "Waist_IN": "37.5-40",
+                "Waist_CM": "95-101"
+            }
+        ]
+    },
+    "fit_notes": "Zara bottoms may run one size smaller than typical US sizing. If your waist measurement falls between sizes, size up for comfort.",
+    "measurement_guide": {
+        "how_to_measure": "Waist: Measure around the narrowest part of your waist, typically at or just above your belly button.",
+        "tips": [
+            "Zara offers various fits (Slim, Regular, Relaxed) - check individual product descriptions",
+            "Consider going up a size if you prefer a looser fit"
+        ]
+    }
+}

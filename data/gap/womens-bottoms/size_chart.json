@@ -1,0 +1,164 @@
+{
+    "brand": "Gap",
+    "brand_slug": "gap",
+    "category": "Women's Bottoms",
+    "category_slug": "womens-bottoms",
+    "gender": "Women",
+    "source_url": "https://www.gap.com/browse/sizeChart.do",
+    "collected_date": "2025-12-29",
+    "notes": "Gap offers multiple inseam lengths: Petite/X-Short (29 in), Short (30 in), Regular (31.5 in), Long (33.5 in), Tall/X-Long (35.5 in).",
+    "unit_system": [
+        "INCH",
+        "CM"
+    ],
+    "size_chart": {
+        "waist_sizes": {
+            "headers": [
+                "Size",
+                "US Size",
+                "Waist (in)",
+                "Waist (cm)",
+                "Hip (in)",
+                "Hip (cm)"
+            ],
+            "rows": [
+                {
+                    "Size": "000",
+                    "US": "23",
+                    "Waist_IN": "23.5",
+                    "Waist_CM": "60",
+                    "Hip_IN": "33.25",
+                    "Hip_CM": "84"
+                },
+                {
+                    "Size": "00",
+                    "US": "24",
+                    "Waist_IN": "24.75",
+                    "Waist_CM": "63",
+                    "Hip_IN": "34.25",
+                    "Hip_CM": "87"
+                },
+                {
+                    "Size": "0",
+                    "US": "25",
+                    "Waist_IN": "25.5",
+                    "Waist_CM": "65",
+                    "Hip_IN": "35.25",
+                    "Hip_CM": "90"
+                },
+                {
+                    "Size": "2",
+                    "US": "26",
+                    "Waist_IN": "26.5",
+                    "Waist_CM": "67",
+                    "Hip_IN": "36.25",
+                    "Hip_CM": "92"
+                },
+                {
+                    "Size": "4",
+                    "US": "27",
+                    "Waist_IN": "27.5",
+                    "Waist_CM": "70",
+                    "Hip_IN": "37.25",
+                    "Hip_CM": "95"
+                },
+                {
+                    "Size": "6",
+                    "US": "28",
+                    "Waist_IN": "28.5",
+                    "Waist_CM": "72",
+                    "Hip_IN": "38.25",
+                    "Hip_CM": "97"
+                },
+                {
+                    "Size": "8",
+                    "US": "29",
+                    "Waist_IN": "29.5",
+                    "Waist_CM": "75",
+                    "Hip_IN": "39.25",
+                    "Hip_CM": "100"
+                },
+                {
+                    "Size": "10",
+                    "US": "30",
+                    "Waist_IN": "30.5",
+                    "Waist_CM": "77",
+                    "Hip_IN": "40.25",
+                    "Hip_CM": "102"
+                },
+                {
+                    "Size": "12",
+                    "US": "31",
+                    "Waist_IN": "32",
+                    "Waist_CM": "81",
+                    "Hip_IN": "41.75",
+                    "Hip_CM": "106"
+                },
+                {
+                    "Size": "14",
+                    "US": "32",
+                    "Waist_IN": "33.5",
+                    "Waist_CM": "85",
+                    "Hip_IN": "43.25",
+                    "Hip_CM": "110"
+                },
+                {
+                    "Size": "16",
+                    "US": "33",
+                    "Waist_IN": "35.5",
+                    "Waist_CM": "90",
+                    "Hip_IN": "45",
+                    "Hip_CM": "114"
+                }
+            ]
+        },
+        "inseam_lengths": {
+            "headers": [
+                "Length",
+                "Inseam (in)",
+                "Inseam (cm)",
+                "Height Range"
+            ],
+            "rows": [
+                {
+                    "Length": "Petite/X-Short",
+                    "Inseam_IN": "29",
+                    "Inseam_CM": "74",
+                    "Height_Range": "Under 5'4\" (162 cm)"
+                },
+                {
+                    "Length": "Short",
+                    "Inseam_IN": "30",
+                    "Inseam_CM": "76",
+                    "Height_Range": "5'2\" - 5'5\" (157-165 cm)"
+                },
+                {
+                    "Length": "Regular",
+                    "Inseam_IN": "31.5",
+                    "Inseam_CM": "80",
+                    "Height_Range": "5'5\" - 5'7\" (165-170 cm)"
+                },
+                {
+                    "Length": "Long",
+                    "Inseam_IN": "33.5",
+                    "Inseam_CM": "85",
+                    "Height_Range": "5'7\" - 5'10\" (170-178 cm)"
+                },
+                {
+                    "Length": "Tall/X-Long",
+                    "Inseam_IN": "35.5",
+                    "Inseam_CM": "90",
+                    "Height_Range": "Over 5'8\" (172 cm)"
+                }
+            ]
+        }
+    },
+    "fit_notes": "Gap offers various fits including Slim, Straight, Boyfriend, and Wide Leg. Petite sizes feature shorter inseams and smaller waist-to-hip ratio.",
+    "measurement_guide": {
+        "how_to_measure": "Waist: Measure at the narrowest point of your natural waist.\nHip: Measure around the fullest part of your hips.\nInseam: Measure from the crotch to the bottom of the leg (where you want the pants to end).",
+        "tips": [
+            "Choose your inseam length based on your height",
+            "Different fits (Slim, Straight, Wide Leg) will fit differently"
+        ]
+    }
+}
